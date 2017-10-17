@@ -418,28 +418,27 @@ Se o contrato já tiver terminado (i.e., data de fim inferior à data atual), o 
 
 <p class="caption" id="fig58"> Avaliação Pós-Ocupação </p>
 
-<p id="acao-acss"></p>
-### 14.1.7 Ações ACSS
+// <p id="acao-acss"></p>
+// ### 14.1.7 Ações ACSS
+// É neste separador que o utilizador pode registar informação de todas as ações que a ACSS executou naquelas instalações.
 
-É neste separador que o utilizador pode registar informação de todas as ações que a ACSS executou naquelas instalações.
-
-|    | Campos em Ações ACSS – ([](#fig59))     | |
-|----|-----------------------------------------------------------|-|
-| a) | Existem ações realizadas no estabelecimento, pela ACSS? |Data de realização |
-| b) | Tipo de Ação                          |Avaliações do estado das instalações |
-||                                           |Estudo-piloto |
-||                                           |Outros |
-||                                           |Visita |
-| c) | Serviços Visitados                           ||
-| d) | Descrição Sumária                            ||
-| e) | Upload para repositório?              |Ficheiro |
+// |    | Campos em Ações ACSS – ([](#fig59))     | |
+// |----|-----------------------------------------------------------|-|
+// | a) | Existem ações realizadas no estabelecimento, pela ACSS? |Data de realização |
+// | b) | Tipo de Ação                          |Avaliações do estado das instalações |
+// ||                                           |Estudo-piloto |
+// ||                                           |Outros |
+// ||                                           |Visita |
+// | c) | Serviços Visitados                           ||
+// | d) | Descrição Sumária                            ||
+// | e) | Upload para repositório?              |Ficheiro |
 
 
-![fig59](img/pages/59.JPG)
+// ![fig59](img/pages/59.JPG)
 
-<p class="caption" id="fig59"> Ações ACSS </p>
+// <p class="caption" id="fig59"> Ações ACSS </p>
 
-<p id="ediatr-instalaes"></p>
+// <p id="ediatr-instalaes"></p>
 
 ## 14.2. Editar Instalações
 
