@@ -404,7 +404,7 @@ Se o contrato já tiver terminado (i.e., data de fim inferior à data atual), o 
 
 <p class="caption" id="renovar"> Possibilidade de echar ou renovar um contrato que já chegou ao fim </p>
 
-O utilizador pode filtrar a pesquisa de contratos tendo em conta o seu estado, nomeadamente, o utilizador pode pesquisar por contratos ativos, anulados ou fechados ([](#fig57_3)).
+O utilizador pode filtrar a pesquisa de contratos tendo em conta o seu estado, nomeadamente, o utilizador pode pesquisar por contratos ativos, anulados ou fechados ([](#fig5_3)).
 Contratos ativos correspondem a contratos em vigor e contratos renovados.
 
 ![filtrar](img/pages/52_3.JPG)
@@ -444,9 +444,9 @@ Contratos ativos correspondem a contratos em vigor e contratos renovados.
 
 ![fig59](img/pages/59.JPG)
 
-<p class="caption" id="fig59"> Ações ACSS </p>
+<p class="caption" id="fig59"> Ações ACSS </p> -->
 
-<p id="editar-instalaes"></p> --> 
+<p id="editar-instalaes"></p>  
 ## 14.2. Editar Instalações
 
 O utilizador pode navegar para a página de edição de instalação na página de instalações de estabelecimento ([](#fig39)) e clicar no botão **ALTERAR INSTALAÇÃO**.
