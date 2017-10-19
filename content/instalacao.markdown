@@ -407,7 +407,7 @@ Se o contrato já tiver terminado (i.e., data de fim inferior à data atual), o 
 O utilizador pode filtrar a pesquisa de contratos tendo em conta o seu estado, nomeadamente, o utilizador pode pesquisar por contratos ativos, anulados ou fechados ([](#fig57_3)].
 Contratos ativos correspondem a contratos em vigor e contratos renovados.
 
-![filtrar](img/pages/57_3.JPG)
+![filtrar](img/pages/52_3.JPG)
 
 <p class="caption" id="filtrar"> Pesquisa de Contratos </p>
 
