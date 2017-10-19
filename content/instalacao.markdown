@@ -364,15 +364,14 @@ Após o registo de cada dado, o utilizador deve clicar no botão **GUARDAR** par
 | |                                           | Central de protóxido |
 | |                                           | Central de extração de gases anestésicos |
 | |                                           | Ventilador(es) associado(s) ao sistema de incêndios |
-| c)| Estado ||
-| d)| Data Início ||
-| e)| Data Fim ||
-| f) |      Tipo de Manutenção                | Preventiva |
+| c)| Data Início ||
+| d)| Data Fim ||
+| e) |      Tipo de Manutenção                | Preventiva |
 | |                                           | Corretiva |
 | |                                           | Preventiva e Corretiva |
-| g)|Com peças? (Se Tipo de Manutenção = “Preventiva” ou ”Corretiva ou Preventiva”)       |Sim |
+| f)|Com peças? (Se Tipo de Manutenção = “Preventiva” ou ”Corretiva ou Preventiva”)       |Sim |
 | |                                           | Não |
-| h) |      Duração do Contrato               | Semestral |
+| g) |      Duração do Contrato               | Semestral |
 | |                                           | Anual |
 | |                                           | Bianual|
 | |                                           | Trianual|
@@ -383,9 +382,9 @@ Após o registo de cada dado, o utilizador deve clicar no botão **GUARDAR** par
 |   |                                         | Em vigor   |
 |   |                                         | Fechado   |
 |   |                                         | Renovado   |
-| j) |   Contrato contém SLA – Service Level Agreement?    | Sim|
+| h) |   Contrato contém SLA – Service Level Agreement?    | Sim|
 | |                                                        | Não|
-| l) |  Existe equipa de manutenção associada a este contrato?    | Sim| |Números de elementos de equipa|
+| i) |  Existe equipa de manutenção associada a este contrato?    | Sim| |Números de elementos de equipa|
 | |                                                        | Não|
 
 ![fig57](img/pages/57.JPG)
