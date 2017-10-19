@@ -230,7 +230,7 @@ O novo acordo/convenção passa a poder ser editado, consultado e o seu estado a
 
 ![figPainel_confir](img/pages/14_13.JPG)
 
-<p class="caption" id="figFichaTecnica"> Página de verificação da informação que consta na Ficha Técnica. </p>
+<p class="caption" id="figPainel_confir"> Página de verificação da informação que consta na Ficha Técnica. </p>
 
 <p id="atualizar"></p>
 ## 15.7 Importar Atualizações da Ficha Técnica
@@ -241,7 +241,7 @@ O utilizador é encaminhado para uma página onde pode anexar e carregar as fich
 
 ![fig14_14](img/pages/14_14.JPG)
 
-<p class="caption" id="figFichaTecnica"> Página de verificação da informação que consta na Ficha Técnica. </p>
+<p class="caption" id="fig14_14"> Página de verificação da informação que consta na Ficha Técnica. </p>
 
 Depois de carregar a ficha técnica, é mostrada uma página de verificação da informação onde o utilizador pode consultar a informação que carregou ([](#figPainel_confir)).
 Caso a informação seja confirmada, esta informação passa a ter de ser sujeita a aprovação.
@@ -254,7 +254,7 @@ Caso o utilizador exclua, os dados presentes na ficha técnica permanecem inalte
 
 ![figPainel_comp](img/pages/14_14.JPG)
 
-<p class="caption" id="figFichaTecnica"> Página de verificação da informação que consta na Ficha Técnica. </p>
+<p class="caption" id="figPainel_comp"> Página de verificação da informação que consta na Ficha Técnica. </p>
  
  <p id="aconvencao"></p>
 ## 15.9 Validação das Atualizações da Ficha Técnica
@@ -263,16 +263,16 @@ Assim, no sub-menu Atualizações Por Aprovar, deixa de ser possível consultar 
 
 ![fig14_16](img/pages/14_16.JPG)
 
-<p class="caption" id="figFichaTecnica"> Separador Acordos/Convenções de uma entidade. </p>
+<p class="caption" id="fig14_16"> Separador Acordos/Convenções de uma entidade. </p>
 
 ![fig14_17](img/pages/14_17.JPG)
 
-<p class="caption" id="figFichaTecnica"> Separador Atualizações por Validar. </p>
+<p class="caption" id="fig14_17"> Separador Atualizações por Validar. </p>
 
 Quando o utilizador carrega no botão Validar ([](#fig14_17)), é direcionado para uma página onde pode visualizar e validar ou não, os blocos de informação que foram atualizados ([](#fig14_18)). 
 Pode também visualizar os blocos de informação que não foram atualizados e, por isso, são mostrados como validados.
 
 ![fig14_18](img/pages/14_18.JPG)
 
-<p class="caption" id="figFichaTecnica"> Página de validação das atualizações. </p>
+<p class="caption" id="fig14_18"> Página de validação das atualizações. </p>
 
