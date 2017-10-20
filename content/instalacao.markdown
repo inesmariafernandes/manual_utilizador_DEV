@@ -277,7 +277,7 @@ Após o registo de cada dado, o utilizador deve clicar no botão **GUARDAR** par
 ||            | Posto de transformação (PT)||
 ||            | Quadro geral de baixa tensão (QGBT)||
 ||            | UPS||
-|b)| Localização | Exterior|
+|b)| Localização | Exterior| Localização do equipamento|
 ||             | Edíficio|
 |c)| Marca ||
 |d)| Modelo ||
