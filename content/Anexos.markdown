@@ -6,7 +6,10 @@ title: "Entidade"
 <p id="listaeqcr"></p>
 # 16. Anexos
 
-## 16.1 Equipamentos das instalações elétricas, mecânicas e de águas e esgotos 
+## 16.1 
+
+|   | Equipamentos das instalações elétricas, mecânicas e de águas e esgotos ||
+|---|------------------------------------------------------------------------|| 
 |Instalações Elétricas				          | Central deteção intrusão |
 | |                                           | Central de deteção de gás combustível |
 | |                                           | Central de deteção de CO |
@@ -35,6 +38,9 @@ title: "Entidade"
 
 <p id="listaperfis"></p>
 ## 16.2 Permissões e respetivas permissões
+
+|   | Permissões e respetivas permissões                                     ||
+|---|------------------------------------------------------------------------|| 
 |SUPER_ADMIN_ENTI|            | Consulta e edita todos os campos dos módulos da aplicação e gere utilizadores|
 |ADMIN_ENTIDADE |             | Consulta todos os campos dos módulos e gere utilizadores | 
 |ARS_ADMIN			          | Consulta todos os campos dos módulos e gere utilizadores |
