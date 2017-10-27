@@ -62,9 +62,9 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 | d) | Edifícios construídos na mesma fase?                                                    |Sim|          Número de fases de construção =1 ||
 |    |                                                                                         |Não|     Quantas fases de construção existiram?||
 | e) | O estabelecimento hospitalar dispõe de plano diretor? |Sim| |O plano diretor está aprovado?| Sim| Data de aprovação do plano diretor + O plano diretor está implementado?| Sim|
-|    |                                                       |   | |                              | Não|                                                                        | Não|
-|    |                                                       |   | |                              | Não|
-|    |                                                       |Não|
+|    |                                                          | |                              | Não|                                                                        | Não|
+|    |                                                          | |                              | Não|
+|    |                                                      |Não|
 | e) | Heliporto?                                                                              |Sim| Heliporto Certificado?                | Sim|
 |    |                                                                                         | Não|                                          ||
 |    | Heliporto Operacional?| Sim|
@@ -328,9 +328,9 @@ Ao carregar no botão *Importar*, são mostradas as indicações necessárias pa
 |a)  | Serviço de Instalação e Equipamento ([](#fig54)) | Ano de Alteração (Ano em que acontece a alteração, se estiver a criar o ano de alteração deve ser igual ao ano actual) |
 |    |                                     | Serviço de Instalações e Equipamentos – Em regime de outsourcing;| Sim|
 |    |                                     |                                                                  | Não|
-|    |                                     | Equipa de Manutenção Permanente*| |Elementos externos (Se *Serviço de Instalações e Equipamentos – Em regime de outsourcing*= Sim)|
-|    |                                     |                                 | |Misto (quadro e externos)|
-|    |                                     |                                 | |Funcionários da entidade hospitalar| (Se *Serviço de Instalações e Equipamentos – Em regime de outsourcing*= Não)|
+|    |                                     | Equipa de Manutenção Permanente*| Elementos externos (Se *Serviço de Instalações e Equipamentos – Em regime de outsourcing*= Sim)|
+|    |                                     |                                 | Misto (quadro e externos)|
+|    |                                     |                                 | Funcionários da entidade hospitalar| (Se *Serviço de Instalações e Equipamentos – Em regime de outsourcing*= Não)|
 |    |                                     | Número de elementos do SIE;|
 |    |                                     | Número de elementos externos;|
 |    |                                     |Número de elementos que são funcionários da entidade hospitalar;|
