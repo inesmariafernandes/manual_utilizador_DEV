@@ -62,7 +62,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 | d) | Edifícios construídos na mesma fase?                                                    |Sim|          Número de fases de construção =1 ||
 |    |                                                                                         |Não|     Quantas fases de construção existiram?||
 | e) | O estabelecimento hospitalar dispõe de plano diretor? |Sim| |O plano diretor está aprovado?| Sim| Data de aprovação do plano diretor| O plano diretor está implementado?| Sim|
-|    |                                                       |Não  |                              | Não|                                   |                                   | Não|                                                    | Não|
+|    |                                                       |Não| |                              | Não|                                   |                                   | Não|                                                    | Não|
 | e) | Heliporto?                                                                              |Sim| Heliporto Certificado?                | Sim|
 |    |                                                                                         | Não|                                          ||
 |    | Heliporto Operacional?| Sim|
@@ -90,7 +90,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 |    |                                                                                         |Freguesia                                     |||
 | e) | Edifícios construídos na mesma fase?                                                    |Sim|          Número de fases de construção =1 ||
 | f) | O estabelecimento hospitalar dispõe de plano diretor? |Sim| |O plano diretor está aprovado?| Sim| Data de aprovação do plano diretor| O plano diretor está implementado?| Sim|
-|    |                                                       |Não  |                              | Não|                                   |                                   | Não|
+|    |                                                       |Não| |                              | Não|                                   |                                   | Não|
 | g) | Heliporto?                                           |Sim| Heliporto Certificado?                | Sim|
 |    |                                                      | Não|                                          ||
 |    | Heliporto Operacional?| Sim|
@@ -111,7 +111,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 |    |                                                                                         |Estado                                        |||
 |    |                                                                                         |PPP                                           |||
 | d) | O estabelecimento hospitalar dispõe de plano diretor? |Sim| |O plano diretor está aprovado?| Sim| Data de aprovação do plano diretor| O plano diretor está implementado?| Sim|
-|    |                                                       |Não  |                              | Não|                                   |                                   | Não|                                                                                                        
+|    |                                                       |Não|  |                             | Não|                                   |                                   | Não|                                                                                                        
 | e) | Heliporto?                                           |Sim| Heliporto Certificado?                | Sim|
 |    |                                                      | Não|                                          ||
 |    | Heliporto Operacional?| Sim|
