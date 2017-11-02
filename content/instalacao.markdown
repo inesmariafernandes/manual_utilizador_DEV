@@ -113,8 +113,8 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 |    |                                                                                         |Estado                                        |||
 |    |                                                                                         |PPP                                           |||
 | d) | O estabelecimento hospitalar dispõe de plano diretor? |Sim| |O plano diretor está aprovado?| Sim| Data de aprovação do plano diretor| O plano diretor está implementado?| Sim|
-|    |                                                             |                              | Não|                                   |                                   | Não|
-|    |                                                       |Não |                              |    |                                   |                                   |    |
+|    |                                                       |   | |                              | Não|                                   |                                   | Não|
+|    |                                                       |Não| |                              |    |                                   |                                   |    |
 | e) | Heliporto?                                           |Sim| Heliporto Certificado?                | Sim|
 |    |                                                      | Não|                                          ||
 |    | Heliporto Operacional?| Sim|
