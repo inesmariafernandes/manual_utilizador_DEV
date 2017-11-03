@@ -56,15 +56,11 @@ efetuar o registo do equipamento.
 		<td style="padding-left: 0px;" colspan="6"> f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)  </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;" colspan="6" rowspan="2"> g) Produção para Exterior? </td>
+		<td style="padding-left: 0px;" colspan="5" rowspan="2"> g) Produção para Exterior? </td>
 	</tr>  
 	<tr>
 		<td style="padding-left: 0px;"> </td>
 		<td> Não </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
 	</tr>  
 	<tr>
 		<td style="padding-left: 0px;" rowspan="2">O equipamento é partilhado por mais alguma entidade? </td>
