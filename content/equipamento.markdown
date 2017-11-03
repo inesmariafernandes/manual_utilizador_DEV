@@ -30,11 +30,12 @@ efetuar o registo do equipamento.
 ### 12.1.1. Identificação
 
 <table class="tabelahtml">
-	<thead><tr text-align="center" bordercolor="#E6E6E6">
-		<td coldspan="6" bgcolor="#E0F2F7" bordercolor="#E6E6E6">
+	<thead>
+		<th text-align="center" bordercolor="#E6E6E6" bgcolor="#E0F2F7">
+		<td coldspan="6" >
 			Campos Obrigatórios da ([](#figCriarEquipamento)
 		</td>
-	</tr>
+	</th>
 </thead>
 	<tbody>
 	<tr>

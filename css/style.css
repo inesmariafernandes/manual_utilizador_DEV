@@ -357,7 +357,7 @@ p.caption{
 
 
 /**tabela Campos obrigatorios*/
-.modulo table:not(table.tabelahtml){	
+.modulo table{	
 margin-top: 10px; 
 margin-bottom: 10px;
 margin-left:auto; 
@@ -365,19 +365,27 @@ margin-right:auto;
 border-bottom:solid #005082 1.0pt;
 width: 80%;}
 
-.modulo table:not(table.tabelahtml) th {background:#F5FAFB;}
+.modulo table th {background:#F5FAFB;}
 
-.modulo table:not(table.tabelahtml) th  p {text-align:    center;}
+.modulo table th  p {text-align:    center;}
 
-.modulo table:not(table.tabelahtml) tbody tr {
+.modulo table tbody tr {
 border-left:    solid #005082 1.0pt;
 border-right:    solid #005082 1.0pt;}
 
-.modulo table:not(table.tabelahtml) td {
+.modulo table td {
 border-left:    solid #005082 1.0pt;
 border-top:    solid #005082 1.0pt;
 }
 
+.modulo table.tabelahtml tbody th {
+border:    solid #005082 1.0pt;
+}
+
+.modulo table.tabelahtml td {
+border:    solid #005082 1.0pt;
+
+}
 #accordion li {
 	cursor: pointer;
 }
