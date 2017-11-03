@@ -29,7 +29,7 @@ efetuar o registo do equipamento.
 <p id="identificao"></p>
 ### 12.1.1. Identificação
 
-<table>
+<table class="tabelahtml">
 	<tr text-align="center" bordercolor="#E6E6E6">
 		<td coldspan="6" bgcolor="#E0F2F7" bordercolor="#E6E6E6">
 			<b> Campos Obrigatórios da ([](#figCriarEquipamento) </b>
@@ -194,6 +194,134 @@ efetuar o registo do equipamento.
 	</tr>
 </table>
 
+
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th>Campos Obrigatórios da (<a href="#figCriarEquipamento">Fig.43</a>)</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">a)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Designação</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">b)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Número de série</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">c)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">d)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Marca</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">e)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Modelo</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">f)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Característica Técnica</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">g)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Produção para Exterior?</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Sim</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-top: none; border-bottom: none; border-right: 1pt solid rgb(0, 80, 130); border-left: none;">&nbsp;</td>
+      <td style="border-top: none; border-bottom: none; border-right: 1pt solid rgb(0, 80, 130); border-left: none;">&nbsp;</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Não</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">h)</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">O equipamento é partilhado por mais alguma entidade?</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Sim</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">A entidade pertence ao SNS?</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Sim</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Tipo de Entidade</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Entidade*</td>
+    </tr>
+    <tr>
+      <td style="border-top: none; border-bottom: none; border-right: 1pt solid rgb(0, 80, 130); border-left: none;">&nbsp;</td>
+      <td style="border-top: none; border-bottom: none; border-right: 1pt solid rgb(0, 80, 130); border-left: none;">&nbsp;</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Não</td>
+      <td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);">Qual o nome da entidade?</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+      <td style="border-top: 1pt solid rgb(0, 80, 130); border-bottom: none; border-right: none; border-left: none;">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 
 |    | Campos Obrigatórios da ([](#figCriarEquipamento))         |      |
