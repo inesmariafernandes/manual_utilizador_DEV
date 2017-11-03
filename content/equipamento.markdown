@@ -36,16 +36,6 @@ efetuar o registo do equipamento.
 		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)" colspan="6">
 			<strong>Campos Obrigatórios da ([](#figCriarEquipamento))</strong>
 		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td style="padding-left: 0px;"> a) Designação </td>
