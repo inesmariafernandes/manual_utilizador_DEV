@@ -38,32 +38,32 @@ efetuar o registo do equipamento.
 		</td>
 	</tr>
 	<tr>
-		<td style="padding-left: 0px;" colspan="6"> a) Designação </td>
+		<td style="padding-left: 10px;" colspan="6"> a) Designação </td>
 	</tr>
 	<tr>
-		<td style="padding-left: 0px;" colspan="6"> b) Número de série </td>
+		<td style="padding-left:10px;" colspan="6"> b) Número de série </td>
 	</tr>
 	<tr>
-		<td style="padding-left: 0px;" colspan="6">c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)  </td>
+		<td style="padding-left: 10px;" colspan="6">c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)  </td>
 	</tr>
 	<tr>
-		<td style="padding-left: 0px;" colspan="6">d) Marca </td>
+		<td style="padding-left: 10px;" colspan="6">d) Marca </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;" colspan="6"> e) Modelo </td>
+		<td style="padding-left: 10px;" colspan="6"> e) Modelo </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;" colspan="6"> f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)  </td>
+		<td style="padding-left: 10px;" colspan="6"> f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)  </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;" colspan="5" rowspan="2"> g) Produção para Exterior? </td>
+		<td style="padding-left: 10px;" colspan="5" rowspan="2"> g) Produção para Exterior? </td>
 		<td> Sim </td>
 	</tr>  
 	<tr>
 		<td> Não </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;" rowspan="2">O equipamento é partilhado por mais alguma entidade? </td>
+		<td style="padding-left: 10px;" rowspan="2"> h)O equipamento é partilhado por mais alguma entidade? </td>
 		<td> Sim </td>
 		<td> A entidade pertence ao SNS? </td>
 		<td> Sim </td>
