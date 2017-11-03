@@ -31,7 +31,7 @@ efetuar o registo do equipamento.
 
 <table>
 	<tr>
-		<td align="center" coldspan="6">
+		<td coldspan="6" align="center" >
 		Campos Obrigatórios da ([](#figCriarEquipamento)
 		</td>
 	</tr>
@@ -194,18 +194,7 @@ efetuar o registo do equipamento.
 	</tr>
 </table>
 
-Campos Obrigatórios da ([](#figCriarEquipamento))         |      |
-|----|----------------------------------------------------|----------|
-| a) | Designação                                         |      |
-| b) | Número de série                                    |      |
-| c) | Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)                           |      |
-| d) | Marca                                              |      |
-| e) | Modelo                                             |      |
-| f) | Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)                           |Característica Técnica| 
-| g) | Produção para Exterior?                          | Sim     |
-|    |                                                  | Não     |
-| h) | O equipamento é partilhado por mais alguma entidade? | Sim| A entidade pertence ao SNS?| |Sim| Tipo de Entidade| |Entidade*|
-|    |                                                      |Não| Qual o nome da entidade?|
+
 
 |    | Campos Obrigatórios da ([](#figCriarEquipamento))         |      |
 |----|----------------------------------------------------|----------|
