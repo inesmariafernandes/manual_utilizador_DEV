@@ -29,6 +29,86 @@ efetuar o registo do equipamento.
 <p id="identificao"></p>
 ### 12.1.1. Identificação
 
+<table>
+	<tr>
+		Campos Obrigatórios da ([](#figCriarEquipamento))
+	</tr>
+	<tr>
+		a) Designação  
+	</tr>
+	<tr>
+		b) Número de série 
+	</tr>
+		c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)
+	</tr>
+	<tr>
+		 d) Marca 
+	</tr>
+	<tr>
+		e) Modelo
+	</tr>
+	<tr>
+		f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia) 
+	</tr>
+	<tr>
+		<td>
+			g) Produção para Exterior?  
+		</td>
+		<td>
+			Sim
+		</td>
+	</tr>
+	<tr>
+		<td>
+		</td>
+		<td>
+			Não
+		</td>
+	</tr>
+	<tr>
+		<td>
+			O equipamento é partilhado por mais alguma entidade? 
+		</td>
+		<td>
+			Sim
+		</td>
+		<td>
+			A entidade pertence ao SNS?
+		</td>
+		<td>
+			Sim
+		</td>
+		<td>
+			Tipo de Entidade
+		</td>
+		<td>
+			Entidade*
+		</td>
+	</tr>
+	<tr>
+		<td>
+		</td>
+		<td>
+			Não
+		</td>
+		<td>
+			Qual o nome da entidade?
+		</td>
+	</tr>
+</table>
+Campos Obrigatórios da ([](#figCriarEquipamento))         |      |
+|----|----------------------------------------------------|----------|
+| a) | Designação                                         |      |
+| b) | Número de série                                    |      |
+| c) | Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)                           |      |
+| d) | Marca                                              |      |
+| e) | Modelo                                             |      |
+| f) | Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)                           |Característica Técnica| 
+| g) | Produção para Exterior?                          | Sim     |
+|    |                                                  | Não     |
+| h) | O equipamento é partilhado por mais alguma entidade? | Sim| A entidade pertence ao SNS?| |Sim| Tipo de Entidade| |Entidade*|
+|    |                                                      |Não| Qual o nome da entidade?|
+
 |    | Campos Obrigatórios da ([](#figCriarEquipamento))         |      |
 |----|----------------------------------------------------|----------|
 | a) | Designação                                         |      |
