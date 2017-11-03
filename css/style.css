@@ -357,7 +357,7 @@ p.caption{
 
 
 /**tabela Campos obrigatorios*/
-.modulo table{	
+.modulo table:not(table.tabelahtml){	
 margin-top: 10px; 
 margin-bottom: 10px;
 margin-left:auto; 
@@ -365,15 +365,15 @@ margin-right:auto;
 border-bottom:solid #005082 1.0pt;
 width: 80%;}
 
-.modulo table th {background:#F5FAFB;}
+.modulo table:not(table.tabelahtml) th {background:#F5FAFB;}
 
-.modulo table th  p {text-align:    center;}
+.modulo table:not(table.tabelahtml) th  p {text-align:    center;}
 
-.modulo table tbody tr {
+.modulo table:not(table.tabelahtml) tbody tr {
 border-left:    solid #005082 1.0pt;
 border-right:    solid #005082 1.0pt;}
 
-.modulo table td {
+.modulo table:not(table.tabelahtml) td {
 border-left:    solid #005082 1.0pt;
 border-top:    solid #005082 1.0pt;
 }
