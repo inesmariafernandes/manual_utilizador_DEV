@@ -71,7 +71,6 @@ efetuar o registo do equipamento.
 		<td> Entidade* </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;"></td>
 		<td> Não </td>
 		<td> Qual o nome da entidade? </td>
 		<td> </td>
