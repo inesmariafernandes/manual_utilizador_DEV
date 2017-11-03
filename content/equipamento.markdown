@@ -31,7 +31,7 @@ efetuar o registo do equipamento.
 
 <table>
 	<tr text-align="center" bordercolor="#E6E6E6">
-		<td coldspan="6" bgcolor="#A9E2F3" bordercolor="#E6E6E6">
+		<td coldspan="6" bgcolor="#E0F2F7" bordercolor="#E6E6E6">
 			<b> Campos Obrigatórios da ([](#figCriarEquipamento) </b>
 		</td>
 	</tr>
