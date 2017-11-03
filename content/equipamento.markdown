@@ -33,12 +33,12 @@ efetuar o registo do equipamento.
 	<tr>
 		<td align="center" coldspan="6">
 		Campos Obrigatórios da ([](#figCriarEquipamento)
+		</td>
 	</tr>
 	<tr>
 		<td>
 		a) Designação
 		</td>
-		</td>
 		<td>
 		</td>
 		<td>
@@ -48,31 +48,81 @@ efetuar o registo do equipamento.
 		<td>
 		</td>
 		<td>
-		</td>  
+		</td>
 	</tr>
 	<tr>
 		<td>
 		b) Número de série
-		</td> 
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
 		c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)
 		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
 		 d) Marca
-		 </td> 
+		 </td>
+		 <td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td> 
 	</tr>
 	<tr>
 		<td>
 		e) Modelo
 		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
 		f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
 		</td> 
 	</tr>
 	<tr>
@@ -82,12 +132,28 @@ efetuar o registo do equipamento.
 		<td>
 			Sim
 		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
 		</td>
 		<td>
 			Não
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
 		</td>
 	</tr>
 	<tr>
@@ -119,8 +185,15 @@ efetuar o registo do equipamento.
 		<td>
 			Qual o nome da entidade?
 		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
 	</tr>
 </table>
+
 Campos Obrigatórios da ([](#figCriarEquipamento))         |      |
 |----|----------------------------------------------------|----------|
 | a) | Designação                                         |      |
