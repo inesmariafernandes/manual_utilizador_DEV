@@ -30,9 +30,9 @@ efetuar o registo do equipamento.
 ### 12.1.1. Identificação
 
 <table>
-	<tr>
-		<td coldspan="6" align="center" >
-		Campos Obrigatórios da ([](#figCriarEquipamento)
+	<tr text-align="center" bordercolor="#E6E6E6">
+		<td coldspan="6" bgcolor="#A9E2F3" bordercolor="#E6E6E6">
+			<b> Campos Obrigatórios da ([](#figCriarEquipamento) </b>
 		</td>
 	</tr>
 	<tr>
