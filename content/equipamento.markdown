@@ -60,7 +60,6 @@ efetuar o registo do equipamento.
 		<td> Sim </td>
 	</tr>  
 	<tr>
-		<td style="padding-left: 0px;"> </td>
 		<td> Não </td>
 	</tr>  
 	<tr>
