@@ -57,6 +57,7 @@ efetuar o registo do equipamento.
 	</tr>  
 	<tr>
 		<td style="padding-left: 0px;" colspan="5" rowspan="2"> g) Produção para Exterior? </td>
+		<td> Sim </td>
 	</tr>  
 	<tr>
 		<td style="padding-left: 0px;"> </td>
