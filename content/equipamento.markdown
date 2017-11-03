@@ -29,18 +29,12 @@ efetuar o registo do equipamento.
 <p id="identificao"></p>
 ### 12.1.1. Identificação
 
-<table class="tabelahtml">
-	<thead>
-		<th text-align="center" bordercolor="#E6E6E6" bgcolor="#E0F2F7">
-		<td coldspan="6" >
-			Campos Obrigatórios da ([](#figCriarEquipamento)
-		</td>
-	</th>
-</thead>
+
+<table class="tabelaPermissao">
 	<tbody>
-	<tr>
-		<td>
-		a) Designação
+	<tr style="text-align: center;">
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130)">
+			<strong>Campos Obrigatórios da ([](#figCriarEquipamento))</strong>
 		</td>
 		<td>
 		</td>
@@ -54,149 +48,90 @@ efetuar o registo do equipamento.
 		</td>
 	</tr>
 	<tr>
-		<td>
-		b) Número de série
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
+		<td style="text-align: center; padding-left: 0px;"> a) Designação </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
 	</tr>
 	<tr>
-		<td>
-		c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
+		<td style="text-align: center; padding-left: 0px;"> b) Número de série </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
 	</tr>
 	<tr>
-		<td>
-		 d) Marca
-		 </td>
-		 <td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td> 
+		<td style="text-align: center; padding-left: 0px;">c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)  </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
 	</tr>
 	<tr>
-		<td>
-		e) Modelo
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-	</tr>
+		<td style="text-align: center; padding-left: 0px;">d) Marca </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+	</tr>  
 	<tr>
-		<td>
-		f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td> 
-	</tr>
+		<td style="text-align: center; padding-left: 0px;">e) Modelo </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+	</tr>  
 	<tr>
-		<td>
-			g) Produção para Exterior?  
-		</td>
-		<td>
-			Sim
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-	</tr>
+		<td style="text-align: center; padding-left: 0px;"> f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)  </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+	</tr>  
 	<tr>
-		<td>
-		</td>
-		<td>
-			Não
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-	</tr>
+		<td style="text-align: center; padding-left: 0px;">g) Produção para Exterior? </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> Sim </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+	</tr>  
 	<tr>
-		<td>
-			O equipamento é partilhado por mais alguma entidade? 
-		</td>
-		<td>
-			Sim
-		</td>
-		<td>
-			A entidade pertence ao SNS?
-		</td>
-		<td>
-			Sim
-		</td>
-		<td>
-			Tipo de Entidade
-		</td>
-		<td>
-			Entidade*
-		</td>
-	</tr>
+		<td style="text-align: center; padding-left: 0px;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> Não </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+	</tr>  
 	<tr>
-		<td>
-		</td>
-		<td>
-			Não
-		</td>
-		<td>
-			Qual o nome da entidade?
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-	</tr>
+		<td style="text-align: center; padding-left: 0px;">O equipamento é partilhado por mais alguma entidade? </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> Sim </td>
+		<td style="background-color: #ff8181; text-align: center;"> A entidade pertence ao SNS? </td>
+		<td style="background-color: #ff8181; text-align: center;"> Sim </td>
+		<td style="background-color: #ff8181; text-align: center;"> Tipo de Entidade </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> Entidade* </td>
+	</tr>  
+	<tr>
+		<td style="text-align: center; padding-left: 0px;"></td>
+		<td style="background-color: #c6e0b4; text-align: center;"> Não </td>
+		<td style="background-color: #ff8181; text-align: center;"> Qual o nome da entidade? </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #ff8181; text-align: center;"> </td>
+		<td style="background-color: #c6e0b4; text-align: center;"> </td>
+	</tr>     
 	</tbody>
 </table>
+
+
+
 
 
 
