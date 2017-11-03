@@ -72,10 +72,7 @@ efetuar o registo do equipamento.
 	</tr>  
 	<tr>
 		<td> Não </td>
-		<td> Qual o nome da entidade? </td>
-		<td> </td>
-		<td> </td>
-		<td> </td>
+		<td colspan="3"> Qual o nome da entidade? </td>
 	</tr>     
 	</tbody>
 </table>
