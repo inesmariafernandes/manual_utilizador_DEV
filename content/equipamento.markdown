@@ -32,7 +32,7 @@ efetuar o registo do equipamento.
 <table>
 	<tr>
 		<td align="center">
-		Campos Obrigatórios da ([](#figCriarEquipamento))
+		Campos Obrigatórios da ([](#figCriarEquipamento)
 		</td>
 		<td>
 		</td>
