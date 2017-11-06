@@ -13,13 +13,9 @@ Será organizado:
  - “Tabela de  Acrónimos”, que contém todos os acrónimos usados ao longo deste manual e que permitirá que o utilizador fique familiarizado com determinadas abreviaturas apresentadas na aplicação; 
  - “Introdução”,   onde é apresentado o sistema SGES, qual o seu contexto e propósito e os propósitos da utilização da aplicação informática;
 - “Conceitos básicos”, onde se explicam os principais conceitos que suportam a aplicação, em particular, o conceito de “navegação" no sistema, explicando o que se entende por isso. Este capítulo inclui os seguintes sub-capítulos:
-
  	 * “Aceder ao SGES”, onde é descrito como o utilizador pode aceder ao sistema;
-
 	 * “Alteração da senha”, onde é descrito a sequência de ações que o utilizador tem de realizar para alterar a sua senha;
-
 	 * “Página de pesquisa”, onde é apresentado o menu de pesquisa da aplicação;
-
 	 * “Gestão de utilizadores”, onde é apresentada a possibilidade de criar e gerir utilizadores;
 
 - “Sequências de menus”, onde são apresentados os menus, aos quais o utilizador pode aceder através da aplicação, e as suas funcionalidades.
