@@ -93,9 +93,9 @@ efetuar o registo do equipamento.
 | g) | Produção para Exterior?                          | Sim     |
 |    |                                                  | Não     |
 | h) | O equipamento é partilhado por mais alguma entidade? | Sim| A entidade pertence ao SNS?| |Sim| Tipo de Entidade| |Entidade*|
-|    |                                                      |Não| Qual o nome da entidade?|
+|    |                                                      |Não| Qual o nome da entidade?|    ||     |||
 
-* Para que seja possível selecionar a entidade o utilizador deve, primeiro, selecionar o tipo de entidade.
+\* Para que seja possível selecionar a entidade o utilizador deve, primeiro, selecionar o tipo de entidade.
 
 ![figCriarEquipamento](img/pages/12_1_1_1.PNG)
 
@@ -156,7 +156,7 @@ Após o registo dos dados deve clicar em **GUARDAR** para gravar o equipamento. 
 | d) | Tipo de Utilização                    	        | Exclusiva do serviço* |
 |                                                       | Partilhada por Diferentes Serviços |
 
-Caso o tipo de utilização seja exclusiva do serviço, têm de existir os serviços que constam nas especialidades do estabelecimento ([](#figEspecialidade)).
+\* Caso o tipo de utilização seja exclusiva do serviço, têm de existir os serviços que constam nas especialidades do estabelecimento ([](#figEspecialidade)).
 
 ![figAtividade](img/pages/12_1_2_4.PNG)
 
@@ -199,7 +199,7 @@ Caso o tipo de utilização seja exclusiva do serviço, têm de existir os servi
 ||                                                   	  | Não||
 | c) | Observação                                         |    | |                   
 
-• O campo *autorização ministerial* não é aplicável para equipamentos com Designação =Câmara Hiperbárica, RM, RM (Dedicada Exclusivamente à Radioterapia), Robot Cirúrgico (tipo D’avinci), Simulador, TC, TC-Simulador e TC (Dedicada exclusivamente à radioterapia); 
+\* O campo *autorização ministerial* não é aplicável para equipamentos com Designação =Câmara Hiperbárica, RM, RM (Dedicada Exclusivamente à Radioterapia), Robot Cirúrgico (tipo D’avinci), Simulador, TC, TC-Simulador e TC (Dedicada exclusivamente à radioterapia); 
 
 Depois de o utilizador selecionar a data da licença, o campo *período de vigência* (que se encontra sempre inativo) fica, automaticamente, preenchido com 5 anos.
 
