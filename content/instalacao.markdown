@@ -47,6 +47,52 @@ Para o Registo de Instalações será necessário primeiro submeter os campos da
 
 Para poder criar a instalação o utilizador deve preencher, pelo menos, os campos obrigatórios da *Caracterização Geral* e clicar em **SUBMETER**.
 
+<table class="tabelaPermissao">
+	<tbody>
+	<tr style="text-align: center;">
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6">
+			<strong>Campos Obrigatórios da ([](#figCriarEquipamento))</strong>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6"> a) Designação </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6"> b) Número de série </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6">c) Posto de trabalho (todos os serviços a que um equipamento se encontra associado devem ser considerados)  </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6">d) Marca </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6"> e) Modelo </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6"> f) Se Designação = Acelerador Linear,Angiógrafo,Câmara Gama, Câmara Hiperbárica,RM, RM (Dedicada exclusivamente à Radioterapia),TC ou TC (Dedicada exclusivamente à Radioterapia)  </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="5" rowspan="2"> g) Produção para Exterior? </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+	</tr>  
+	<tr>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Não </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" rowspan="2"> h)O equipamento é partilhado por mais alguma entidade? </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> A entidade pertence ao SNS? </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Tipo de Entidade </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Entidade* </td>
+	</tr>  
+	<tr>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Não </td>
+		<td colspan="4" style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Qual o nome da entidade? </td>
+	</tr>     
+	</tbody>
+</table>
 
 |    |                            Campos Obrigatórios – Caracterização Geral - ([](#fig40))    |                                              ||
 |----|-----------------------------------------------------------------------------------------|-------------------------------------------|-|-|
