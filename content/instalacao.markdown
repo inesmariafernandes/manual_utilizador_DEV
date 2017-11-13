@@ -94,6 +94,72 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 	</tbody>
 </table>
 
+<table class="tabelaPermissao">
+	<tbody>
+	<tr style="text-align: center;">
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6">
+			<strong> Campos Obrigatórios – Caracterização Geral - ([](#fig40)) </strong>
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="7"> Se estabelecimento tem vários edifícios  = Sim e se edifícios que compõem o estabelecimento localizados no mesmo terreno?= Sim </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="5" rowspan="3"> a) Propriedade do Terreno  </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Estado </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Privado com cedência de direito de superfície </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> SCM </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="7"> b) Nome edifício </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="5" rowspan="4"> c) Propriedade do(s) Edifício(s)  </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Arrendado </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Estado</td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> PPP </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> SCM </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="4" rowspan="2">  d) Edifícios construídos na mesma fase?   </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim  </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Número de fases de construção =1 </td>
+	</tr>  
+	<tr>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Não </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Quantas fases de construção existiram? </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" rowspan="2"> e) O estabelecimento hospitalar dispõe de plano diretor? </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> O plano diretor está aprovado? </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Data de aprovação do plano diretor </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> O plano diretor está implementado? </td>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="3" rowspan="3"> f)  Heliporto? </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Heliporto Certificado? </td>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+	</tr>  
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Não </td>
+	</tr> 
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Não </td>
+	</tr>  
+	<tr>
+		<td style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);" colspan="6" rowspan="2"> Heliporto Operacional? </td>
+		<td colspan="4" style="border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Sim </td>
+	</tr>
+	<tr>
+		<td style="padding-left: 10px; border-bottom: none; border-right: none; border-left: 1pt solid rgb(0, 80, 130);"> Não </td>
+	</tr>  
+	</tbody>
+</table>
+
 |    |                            Campos Obrigatórios – Caracterização Geral - ([](#fig40))    |                                              ||
 |----|-----------------------------------------------------------------------------------------|-------------------------------------------|-|-|
 |Se estabelecimento tem vários edifícios  = Sim e se edifícios que compõem o estabelecimento localizados no mesmo terreno?= Sim              |||
