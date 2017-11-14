@@ -340,8 +340,6 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
   <tr>
      <td colspan="5" > Não </td>
   </tr>  
-	</tbody>
-</table>
 
 
 ![fig40_2](img/pages/40_2.JPG)
