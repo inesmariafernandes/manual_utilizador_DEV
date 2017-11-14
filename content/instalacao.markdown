@@ -146,11 +146,13 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 
 <p class="caption" id="fig40_0"> Lista de SUB de uma entidade. </p>
 
+
+
 <table class="tabelaPermissao tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
-			<strong> Campos Obrigatórios – Caracterização Geral - (<a href="#fig40" ; style="color: #000000";> Fig.56</a>) </strong>
+			<strong> Campos Obrigatórios – Caracterização Geral - Fig.56) </strong>
     </th>
 	</tr>
 </thead>
@@ -259,7 +261,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 <thead>
   	<tr>
 		<th colspan="8" >
-			<strong> Campos Obrigatórios – Caracterização Geral - (<a href="#fig40_2" style="color: #000000";>Fig.59</a>) </strong>
+			<strong> Campos Obrigatórios – Caracterização Geral </strong>
     </th>
 	</tr>
 </thead>
@@ -340,6 +342,8 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
   <tr>
      <td colspan="5" > Não </td>
   </tr>  
+	</tbody>
+</table>
 
 
 ![fig40_2](img/pages/40_2.JPG)
