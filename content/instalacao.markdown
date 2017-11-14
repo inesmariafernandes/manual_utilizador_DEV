@@ -47,14 +47,6 @@ Para o Registo de Instalações será necessário primeiro submeter os campos da
 
 Para poder criar a instalação o utilizador deve preencher, pelo menos, os campos obrigatórios da *Caracterização Geral* e clicar em **SUBMETER**.
 
-
-<body class="">
-		<!-- Content -->
-		<div id="content">
-	            <div id="header">
-              </div>
-              <div id="paginas">
-<div class="modulo">
 <table class="tabelaPermissao tabelanova">
 <thead>
   	<tr>
@@ -142,10 +134,6 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
   </tr>  
 	</tbody>
 </table>
-</div>
-  </div>
-    </div>
-      </body>
 
 ![fig40](img/pages/40.JPG)
 
@@ -158,13 +146,6 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 
 <p class="caption" id="fig40_0"> Lista de SUB de uma entidade. </p>
 
-<body class="">
-		<!-- Content -->
-		<div id="content">
-	            <div id="header">
-              </div>
-              <div id="paginas">
-<div class="modulo">
 <table class="tabelaPermissao tabelanova">
 <thead>
   	<tr>
@@ -269,22 +250,11 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
   </tr>  
 	</tbody>
 </table>
-</div>
-  </div>
-    </div>
-      </body>
 
 ![fig40_1](img/pages/40_1.JPG)
 
 <p class="caption" id="fig40_1"> Criar Instalações – Caracterização Geral</p>
 
-<body class="">
-		<!-- Content -->
-		<div id="content">
-	            <div id="header">
-              </div>
-              <div id="paginas">
-<div class="modulo">
 <table class="tabelaPermissao tabelanova">
 <thead>
   	<tr>
@@ -372,10 +342,6 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
   </tr>  
 	</tbody>
 </table>
-</div>
-  </div>
-    </div>
-      </body>
 
 
 ![fig40_2](img/pages/40_2.JPG)
