@@ -63,6 +63,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 	<tr>
 		<td colspan="7" rowspan="3"> a) Propriedade do Terreno  </td>
     	<td> Estado </td>
+    </tr>
 	<tr>
 		<td> Privado com cedência de direito de superfície </td>
 	</tr>	
@@ -97,10 +98,10 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 	<tr>
 		<td rowspan="5" colspan="4"> e) O estabelecimento hospitalar dispõe de plano diretor? </td>
 		<td rowspan="4"> Sim </td>
-    <td rowspan="2"> Aprovado </td>
-    <td> Sim </td>
-    <td> Data de aprovação </td> 
- </tr>
+    	<td rowspan="2"> Aprovado </td>
+    	<td> Sim </td>
+    	<td> Data de aprovação </td> 
+ 	</tr>
  <tr>
      <td  colspan="6"> Não </td>
  </tr>
