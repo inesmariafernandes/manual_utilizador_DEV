@@ -52,7 +52,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 <thead>
   	<tr>
 		<th colspan="8" >
-			<strong> Campos Obrigatórios – Caracterização Geral - (<a href="#fig40" ; style="color: #000000";> Fig.56</a>) </strong>
+			<strong> Campos Obrigatórios – Caracterização Geral - (<a href="#fig40" ; style="color: #000000"> Fig.56 </a>) </strong>
     </th>
 	</tr>
 </thead>
