@@ -47,7 +47,8 @@ Para o Registo de Instalações será necessário primeiro submeter os campos da
 
 Para poder criar a instalação o utilizador deve preencher, pelo menos, os campos obrigatórios da *Caracterização Geral* e clicar em **SUBMETER**.
 
-<table class="tabelaPermissao tabelanova">
+
+<table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
@@ -135,6 +136,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 	</tbody>
 </table>
 
+
 ![fig40](img/pages/40.JPG)
 
 <p class="caption" id="fig40"> Criar Instalações – Caracterização Geral</p>
@@ -148,7 +150,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 
 
 
-<table class="tabelaPermissao tabelanova">
+<table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
@@ -257,7 +259,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 
 <p class="caption" id="fig40_1"> Criar Instalações – Caracterização Geral</p>
 
-<table class="tabelaPermissao tabelanova">
+<table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
