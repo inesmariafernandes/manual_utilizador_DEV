@@ -48,7 +48,7 @@ Para o Registo de Instalações será necessário primeiro submeter os campos da
 Para poder criar a instalação o utilizador deve preencher, pelo menos, os campos obrigatórios da *Caracterização Geral* e clicar em **SUBMETER**.
 
 
-<!-- <table class="tabelanova">
+<table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
@@ -134,7 +134,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
      <td colspan="5" > Não </td>
   </tr>  
 	</tbody>
-</table> -->
+</table>
 
 
 ![fig40](img/pages/40.JPG)
