@@ -53,7 +53,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
   	<tr>
 		<th colspan="8" >
 			<strong> Campos Obrigatórios – Caracterização Geral - <a href="#fig40"> Fig.54 </a> </strong>
-    </th>
+    	</th>
 	</tr>
 </thead>
   <tbody>
@@ -75,9 +75,9 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 	</tr>
 	<tr>
 		<td colspan="7" rowspan="4"> c) Propriedade do(s) Edifício(s)  </td>
-    <td> Arrendado </td>
-   </tr>
-     <tr>
+    	<td> Arrendado </td>
+    </tr>
+    <tr>
 		<td> Estado</td>
     </tr>
     <tr>
@@ -102,38 +102,38 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
     	<td> Sim </td>
     	<td> Data de aprovação </td> 
  	</tr>
- <tr>
-     <td  colspan="6"> Não </td>
- </tr>
- <tr>
-      <td rowspan="2"> Implementado? </td>
-      <td colspan="6"> Sim</td>
- </tr>
- <tr>
-     <td colspan="6"> Não </td>
- </tr>
- <tr>
-     <td colspan="4"> Não </td>
- </tr>
+ 	<tr>
+    	<td  colspan="6"> Não </td>
+ 	</tr>
+ 	<tr>
+     	<td rowspan="2"> Implementado? </td>
+      	<td colspan="6"> Sim</td>
+ 	</tr>
+ 	<tr>
+    	<td colspan="6"> Não </td>
+ 	</tr>
+ 	<tr>
+     	<td colspan="4"> Não </td>
+ 	</tr>
 	<tr>
 		<td colspan="5" rowspan="5"> f)  Heliporto? </td>
 		<td rowspan="4"> Sim </td>
 		<td rowspan="2"> Operacional? </td>
-    <td> Sim </td>
+    	<td> Sim </td>
 	</tr>  
-  <tr>
-     <td> Não </td>
- </tr>
- <tr>
-     <td rowspan="2"> Certificado? </td>
-     <td> Sim </td>
- </tr>
-  <tr>
-     <td> Não </td>
- </tr>
-  <tr>
-     <td colspan="5" > Não </td>
-  </tr>  
+  	<tr>
+     	<td> Não </td>
+ 	</tr>
+ 	<tr>
+     	<td rowspan="2"> Certificado? </td>
+     	<td> Sim </td>
+ 	</tr>
+  	<tr>
+     	<td> Não </td>
+ 	</tr>
+  	<tr>
+     	<td colspan="5" > Não </td>
+  	</tr>  
 	</tbody>
 </table>
 
@@ -150,13 +150,12 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 <p class="caption" id="fig40_0"> Lista de SUB de uma entidade. </p>
 
 
-
 <table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
 			<strong> Campos Obrigatórios – Caracterização Geral - <a href="#fig40_1">Fig.56)  </strong>
-    </th>
+    	</th>
 	</tr>
 </thead>
   <tbody>
@@ -166,6 +165,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 	<tr>
 		<td colspan="7" rowspan="3"> a) Propriedade do Terreno  </td>
     	<td> Estado </td>
+    </tr>
 	<tr>
 		<td> Privado com cedência de direito de superfície </td>
 	</tr>	
@@ -177,9 +177,9 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 	</tr>
 	<tr>
 		<td colspan="7" rowspan="4"> c) Propriedade do(s) Edifício(s)  </td>
-    <td> Arrendado </td>
-   </tr>
-     <tr>
+    	<td> Arrendado </td>
+    </tr>
+    <tr>
 		<td> Estado</td>
     </tr>
     <tr>
@@ -188,23 +188,23 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
     <tr>
 		<td> SCM </td>
 	</tr>
-  <tr>
-    <td rowspan="5" colspan="6"> Mesma morada que o estabelecimento?</td>
-    <td rowspan="4"> Sim</td>
-    <td > Morada </td>
-  </tr>
-  <tr>
-      <td > Código-postal</td>
-  </tr>
-   <tr>
-      <td > Concelho</td>
-  </tr>
-   <tr>
+    <tr>
+    	<td rowspan="5" colspan="6"> Mesma morada que o estabelecimento?</td>
+    	<td rowspan="4"> Sim</td>
+    	<td > Morada </td>
+  	</tr>
+  	<tr>
+      	<td> Código-postal</td>
+  	</tr>
+   	<tr>
+      	<td> Concelho</td>
+  	</tr>
+   	<tr>
       <td > Freguesia </td>
-  </tr>
-   <tr>
+  	</tr>
+   	<tr>
       <td colspan="2"> Não </td>
-  </tr>
+  	</tr>
 	<tr>
 		<td colspan="6" rowspan="2">  d) Edifícios construídos na mesma fase?   </td>
 		<td> Sim  </td>
@@ -217,42 +217,42 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 	<tr>
 		<td rowspan="5" colspan="3"> e) O estabelecimento hospitalar dispõe de plano diretor? </td>
 		<td rowspan="4" colspan="2"> Sim </td>
-    <td rowspan="2"> Aprovado </td>
-    <td> Sim </td>
-    <td> Data de aprovação </td> 
- </tr>
- <tr>
-     <td colspan="2"> Não </td>
- </tr>
- <tr>
-      <td rowspan="2"> Implementado? </td>
-      <td colspan="2"> Sim</td>
- </tr>
- <tr>
-     <td colspan="2"> Não </td>
- </tr>
- <tr>
-     <td colspan="5"> Não </td>
- </tr>
+    	<td rowspan="2"> Aprovado </td>
+    	<td> Sim </td>
+    	<td> Data de aprovação </td> 
+ 	</tr>
+ 	<tr>
+     	<td colspan="2"> Não </td>
+ 	</tr>
+ 	<tr>
+      	<td rowspan="2"> Implementado? </td>
+      	<td colspan="2"> Sim</td>
+ 	</tr>
+ 	<tr>
+     	<td colspan="2"> Não </td>
+ 	</tr>
+ 	<tr>
+     	<td colspan="5"> Não </td>
+ 	</tr>
 	<tr>
 		<td colspan="5" rowspan="5"> f)  Heliporto? </td>
 		<td rowspan="4"> Sim </td>
 		<td rowspan="2"> Operacional? </td>
-    <td> Sim </td>
+    	<td> Sim </td>
 	</tr>  
-  <tr>
-     <td> Não </td>
- </tr>
- <tr>
-     <td rowspan="2"> Certificado? </td>
-     <td> Sim </td>
- </tr>
-  <tr>
-     <td> Não </td>
- </tr>
-  <tr>
-     <td colspan="5" > Não </td>
-  </tr>  
+  	<tr>
+     	<td> Não </td>
+ 	</tr>
+ 	<tr>
+     	<td rowspan="2"> Certificado? </td>
+     	<td> Sim </td>
+ 	</tr>
+  	<tr>
+     	<td> Não </td>
+ 	</tr>
+  	<tr>
+     	<td colspan="5" > Não </td>
+  	</tr>  
 	</tbody>
 </table>
 
