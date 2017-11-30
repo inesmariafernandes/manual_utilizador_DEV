@@ -151,11 +151,11 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 
 
 
-<!-- <table class="tabelanova">
+<table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
-			<strong> Campos Obrigatórios – Caracterização Geral - Fig.56) </strong>
+			<strong> Campos Obrigatórios – Caracterização Geral - <a href="#fig40_1">Fig.56)  </strong>
     </th>
 	</tr>
 </thead>
@@ -254,7 +254,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
      <td colspan="5" > Não </td>
   </tr>  
 	</tbody>
-</table> -->
+</table>
 
 ![fig40_1](img/pages/40_1.JPG)
 
