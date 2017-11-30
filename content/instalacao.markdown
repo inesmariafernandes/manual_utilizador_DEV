@@ -52,7 +52,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 <thead>
   	<tr>
 		<th colspan="8" >
-			<strong> Campos Obrigatórios – Caracterização Geral - (<a href="#fig40" ; style="color: #000000"> Fig.56 </a>) </strong>
+			<strong> Campos Obrigatórios – Caracterização Geral - <a href="#fig40"> Fig.54 </a> </strong>
     </th>
 	</tr>
 </thead>
@@ -372,10 +372,14 @@ Pode inserir informação acerca das áreas e estacionamento, tendo de carregar 
 <p class="caption" id="fig41"> Criar Instalação - Áreas Totais e Estacionamento</p>
 
 As áreas dos hospitais contemplam as áreas de prestação de cuidados de saúde e de apoio (investigação, técnicas, entre outras).
+<mark> As casas de função (usadas, por exemplo, por funcionários realocados) não contam para as áreas.
+Relativamente às SUBS e RNCCI, as suas áreas devem ser contabilizadas.</mark>
 
-Os lugares de estacionamento são os lugares de estacionamento disponíveis no estabelecimento hospitalar.
-
-
+Relativamente ao estacionamento:
+* Os lugares de estacionamento são os lugares de estacionamento disponíveis no estabelecimento hospitalar;
+* Apenas devem ser contabilizados os lugares os oficiais (delimitados);
+* Os descampados não contam para nº de lugares;
+* Lugares concessionados a terceiros devem ser contabilizados (desde que sejam utilizados pelas entidades hospitalares).
 
 O separador *Caracterização do Edifício* contém os dados referentes ao(s) edíficio(s) tais como o nome, a área útil do programa funcional, a área útil, a área bruta, a área de implantação, nº de pisos acima do solo, nº de pisos abaixo do solo e área de estacionamento construído ([](#fig42)).
 
@@ -471,11 +475,11 @@ O separador *Construção* visa caracterizar os custos da construção e os cust
 |   |                     |Energia elétrica produzida por aerogeradores           | |
 | c)|Combustíveis  ||            |
 |   |Consumo nafta |Custo nafta |
-|   |Consumo gasóleo*|Custo gasóleo|
-|   |Consumo outros| Custo outros |
+|   |Consumo gasóleo*|Custo gasóleo**|
+|   |Consumo outros| Custo outros** |
 | d)|Águas       
 |   |Consumo água |Custo água   |
-| e)|Gases Medicinais ||       
+| e)|Gases Medicinais (inclui gases em garrafas)||       
 |   |Consumo oxigénio |Custo oxigénio|
 |   |Consumo azoto |Custo azoto|
 |   |Consumo protóxido|Custo Protóxido|
@@ -485,7 +489,9 @@ O separador *Construção* visa caracterizar os custos da construção e os cust
 |   |Consumo produção em Vácuo|Custo produção em Vácuo;|
 |   |Consumo exaustão de gases anestésicos|Custo exaustão de gases anestésicos|
 
-\*o gasóleo consumido via frota automóvel não deve ser reportado via SGES. 
+\*o gasóleo consumido via frota automóvel não deve ser reportado via SGES.
+
+\** É permitido que o custo seja zero. 
 
 ![fig49](img/pages/49.JPG)
 
