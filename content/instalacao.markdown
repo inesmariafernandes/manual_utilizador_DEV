@@ -150,7 +150,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 <p class="caption" id="fig40_0"> Lista de SUB de uma entidade. </p>
 
 
-<!-- <table class="tabelanova">
+<table class="tabelanova">
 <thead>
   	<tr>
 		<th colspan="8" >
@@ -222,7 +222,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
     	<td> Data de aprovação </td> 
  	</tr>
  	<tr>
-     	<td colspan="2"> Não </td>
+     	<td colspan="3"> Não </td>
  	</tr>
  	<tr>
       	<td rowspan="2"> Implementado? </td>
@@ -254,7 +254,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
      	<td colspan="5" > Não </td>
   	</tr>  
 	</tbody>
-</table> -->
+</table>
 
 
 ![fig40_1](img/pages/40_1.JPG)
