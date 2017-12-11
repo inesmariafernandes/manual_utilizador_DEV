@@ -14,7 +14,7 @@ title: "Entidade"
 A funcionalidade de criar uma entidade apenas é disponibilizada a utilizadores da ACSS por esse motivo, caso pretenda criar uma nova entidade, por favor contacte a ACSS.
 
 ## 6.2.Editar Entidade
-O utilizador pode navegar para a página de edição de entidade após selecionar uma entidade da lista de resultados e clicar no botão **EDITAR ENTIDADE** ([](#figEditarEntidadec)), ou se tiver acesso à pesquisa de entidades pode navegar diretamente para a edição após selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#EditarEntidade)).
+O utilizador pode navegar para a página de edição de entidade após selecionar uma entidade da lista de resultados e clicar no botão **EDITAR ENTIDADE** ([](#figEditarEntidadec)), ou se tiver acesso à pesquisa de entidades pode navegar diretamente para a edição após selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)).
 A edição deve respeitar o preenchimento dos campos obrigatórios identificados listados na tabela abaixo.
 
 |    | Campos obrigatórios para criar uma entidade ([](#figCriarEntidade))      |                 |             |   |
@@ -72,12 +72,12 @@ Para gravar as alterações, no final da edição, o utilizador  deve clicar no 
 <p id="consultaEntidade"></p>
 
 ## 6.3.Consultar Entidade
-Caso o utilizador tenha o perfil entidade, a página de consulta de ua entidade pode ser a página de entrada do menu Entidade ([](#figEditarEntidadec)). O utilizador pode navegar para a página de consulta de entidade após selecionar uma entidade da lista de resultados e clicar no botão **CONSULTAR** ([](#EditarEntidade)).
+Caso o utilizador tenha o perfil entidade, a página de consulta de ua entidade pode ser a página de entrada do menu Entidade ([](#figEditarEntidadec)). O utilizador pode navegar para a página de consulta de entidade após selecionar uma entidade da lista de resultados e clicar no botão **CONSULTAR** ([](#figEditarEntidade)).
 
 <p id="encerrarEntidade"></p>
 
 ## 6.4.Encerrar Entidade
-Para encerrar uma entidade, o utilizador tem pesquisar pela mesma e depois de a selecionar na lista de resultados deve clicar no botão **ENCERRAR** ([](#EditarEntidade)).
+Para encerrar uma entidade, o utilizador tem pesquisar pela mesma e depois de a selecionar na lista de resultados deve clicar no botão **ENCERRAR** ([](#figEditarEntidade)).
 Uma vez na página de **Encerrar Entidade** ([](#figEncerraEntidade)), o utilizador deve clicar no botão **Encerrar**. 
 Após clicar no botão surge alerta a questionar a confirma que o utilizador pretende encerrar a entidade. Se o utilizador confirmar será notificado com o resultado da operação.
 
@@ -88,7 +88,7 @@ Após clicar no botão surge alerta a questionar a confirma que o utilizador pre
 <p id="historicoEntidade"></p>
 
 ## 6.5.Histórico Entidade
-A página de histórico de uma entidade pode ser acedida através da pesquisa de entidades, selecionado uma entidade da lista de resultados e clicando no botão **HISTÓRICO**  ([](#EditarEntidade)).
+A página de histórico de uma entidade pode ser acedida através da pesquisa de entidades, selecionado uma entidade da lista de resultados e clicando no botão **HISTÓRICO**  ([](#figEditarEntidade)).
 Uma vez na página de histórico ([](#figHistoricoEntidade)) o utilizador poderá visualizar todas as versões resultantes da edição da entidade, a data em que as alterações foram efetuadas, o utilizador que as realizou, bem como a identificação dos campos alterados.
 Nesta página estão também registados os estabelecimentos transferidos e encerrados da entidade.
 
