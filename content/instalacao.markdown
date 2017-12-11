@@ -299,7 +299,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td> SCM </td>
 	</tr>
 	<tr>
-		<td rowspan="5" colspan="4"> e) O estabelecimento hospitalar dispõe de plano diretor? </td>
+		<td rowspan="5" colspan="4"> d) O estabelecimento hospitalar dispõe de plano diretor? </td>
 		<td rowspan="4"> Sim </td>
     	<td rowspan="2"> Aprovado </td>
     	<td> Sim </td>
@@ -319,7 +319,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
      	<td colspan="4"> Não </td>
  	</tr>
 	<tr>
-		<td colspan="5" rowspan="5"> f)  Heliporto? </td>
+		<td colspan="5" rowspan="5"> e)  Heliporto? </td>
 		<td rowspan="4"> Sim </td>
 		<td rowspan="2"> Operacional? </td>
     	<td> Sim </td>
