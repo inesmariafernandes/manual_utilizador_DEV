@@ -135,7 +135,7 @@ Para associar um estabelecimento ao acordo/convenção o utilizador deve preench
 
 A identificação do estabelecimento depende de qual é o estabelecimento que se pretende associar de entre os estabelecimentos que pertencem à entidade. 
 
-A escolha das áreas a associar depende das áreas convencionadas que estão associadas à entidade. Ao clicar no botão **ADICIONAR ÁREA**, é possível escolher qual a área que se pretende associar de entre as possíveis; posteriormente é possível selecionar quais a valências e quais os exames abrangidos pela convenção ([]((#figValenciasExames))).
+A escolha das áreas a associar depende das áreas convencionadas que estão associadas à entidade. Ao clicar no botão **ADICIONAR ÁREA**, é possível escolher qual a área que se pretende associar de entre as possíveis; posteriormente é possível selecionar quais a valências e quais os exames abrangidos pela convenção ([](#figValenciasExames)).
 
 ![figValenciasExames](img/pages/cap15/14_6.JPG)
 
