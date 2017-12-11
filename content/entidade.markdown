@@ -59,11 +59,11 @@ A edição deve respeitar o preenchimento dos campos obrigatórios identificados
 | x) | Identificação dos corpos Gerentes/ Conselho de administração    |     |             |   |
 | y) | Identificação dos Sócios/Acionistas (só se natureza jurídica = Privada) |     |     |   |
 
-![figEditarEntidadec](img/pages/6_1_2_2.JPG)
+![figEditarEntidadec](img/pages/cap6/6_1_2_2.JPG)
 
 <p class="caption" id="figCriarEntidade">Editar Entidade </p>
 
-![figEditarEntidade](img/pages/6_1_2_1.JPG)
+![figEditarEntidade](img/pages/cap6/6_1_2_1.JPG)
 
 <p class="caption" id="figCriarEntidade">Editar Entidade </p>
 
@@ -81,7 +81,7 @@ Para encerrar uma entidade, o utilizador tem pesquisar pela mesma e depois de a 
 Uma vez na página de **Encerrar Entidade** ([](#figEncerraEntidade)), o utilizador deve clicar no botão **Encerrar**. 
 Após clicar no botão surge alerta a questionar a confirma que o utilizador pretende encerrar a entidade. Se o utilizador confirmar será notificado com o resultado da operação.
 
-![figEncerraEntidade](img/pages/6_4_1.jpg)
+![figEncerraEntidade](img/pages/cap6/6_4_1.jpg)
 
 <p class="caption" id="figEncerraEntidade"> Encerrar entidade</p>
 
@@ -92,13 +92,13 @@ A página de histórico de uma entidade pode ser acedida através da pesquisa de
 Uma vez na página de histórico ([](#figHistoricoEntidade)) o utilizador poderá visualizar todas as versões resultantes da edição da entidade, a data em que as alterações foram efetuadas, o utilizador que as realizou, bem como a identificação dos campos alterados.
 Nesta página estão também registados os estabelecimentos transferidos e encerrados da entidade.
 
-![figHistoricoEntidade](img/pages/6_5_1.jpg)
+![figHistoricoEntidade](img/pages/cap6/6_5_1.jpg)
 
 <p class="caption" id="figHistoricoEntidade"> Histórico de Entidade</p>
 
 Ao selecionar uma das versões e, posteriormente, clicar no botão **DETALHE** o utilizador pode consultar a página de identificação da entidade na qual estão destacados os grupos alterados ([](#figDetalheHistoricoEntidade)).
 
-![figDetalheHistoricoEntidade](img/pages/6_5_2.jpg)
+![figDetalheHistoricoEntidade](img/pages/cap6/6_5_2.jpg)
 
 <p class="caption" id="figDetalheHistoricoEntidade"> Detalhe histórico de Entidade</p>
 
