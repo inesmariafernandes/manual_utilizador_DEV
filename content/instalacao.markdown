@@ -61,7 +61,7 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 		<td colspan="8"> Se estabelecimento tem vários edifícios  = Sim e se edifícios que compõem o estabelecimento localizados no mes mo terreno?= Sim </td>
 	</tr>
 	<tr>
-		<td colspan="7" rowspan="3"> a) Propriedade do Terreno  </td>
+		<td colspan="7" rowspan="4"> a) Propriedade do Terreno  </td>
     	<td> Estado </td>
     </tr>
 	<tr>
@@ -71,10 +71,13 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
 		<td> SCM </td>
 	</tr>
 	<tr>
+		<td> Outros </td>
+	</tr>
+	<tr>
 		<td colspan="8"> b) Nome edifício </td>
 	</tr>
 	<tr>
-		<td colspan="7" rowspan="4"> c) Propriedade do(s) Edifício(s)  </td>
+		<td colspan="7" rowspan="5"> c) Propriedade do(s) Edifício(s)  </td>
     	<td> Arrendado </td>
     </tr>
     <tr>
@@ -85,6 +88,9 @@ Para poder criar a instalação o utilizador deve preencher, pelo menos, os camp
     </tr>
     <tr>
 		<td> SCM </td>
+	</tr> 
+	<tr>
+		<td> Outros</td>
 	</tr>  
 	<tr>
 		<td colspan="6" rowspan="2">  d) Edifícios construídos na mesma fase?   </td>
@@ -163,7 +169,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td colspan="8"> Se estabelecimento tem vários edifícios  = Sim e se edifícios que compõem o estabelecimento localizados no mesmo terreno?= Não </td>
 	</tr>
 	<tr>
-		<td colspan="7" rowspan="3"> a) Propriedade do Terreno  </td>
+		<td colspan="7" rowspan="4"> a) Propriedade do Terreno  </td>
     	<td> Estado </td>
     </tr>
 	<tr>
@@ -173,10 +179,13 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td> SCM </td>
 	</tr>
 	<tr>
+		<td> Outros </td>
+	</tr>
+	<tr>
 		<td colspan="8"> b) Nome edifício </td>
 	</tr>
 	<tr>
-		<td colspan="7" rowspan="4"> c) Propriedade do(s) Edifício(s)  </td>
+		<td colspan="7" rowspan="5"> c) Propriedade do(s) Edifício(s)  </td>
     	<td> Arrendado </td>
     </tr>
     <tr>
@@ -187,6 +196,9 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
     </tr>
     <tr>
 		<td> SCM </td>
+	</tr>
+	  <tr>
+		<td> Outros </td>
 	</tr>
 	<tr>
     	<td rowspan="5" colspan="6"> Mesma morada que o estabelecimento?</td>
@@ -273,7 +285,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td colspan="8"> Se estabelecimento tem vários edifícios  = Não  </td>
 	</tr>                                          
 	<tr>
-		<td colspan="7" rowspan="3"> a) Propriedade do Terreno  </td>
+		<td colspan="7" rowspan="4"> a) Propriedade do Terreno  </td>
     	<td> Estado </td>
     </tr>
 	<tr>
@@ -283,10 +295,13 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td> SCM </td>
 	</tr>
 	<tr>
+		<td> Outros </td>
+	</tr>
+	<tr>
 		<td colspan="8"> b) Nome edifício </td>
 	</tr>
 	<tr>
-		<td colspan="7" rowspan="4"> c) Propriedade do(s) Edifício(s)  </td>
+		<td colspan="7" rowspan="5"> c) Propriedade do(s) Edifício(s)  </td>
     	<td> Arrendado </td>
     </tr>
     <tr>
@@ -297,6 +312,9 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
     </tr>
     <tr>
 		<td> SCM </td>
+	</tr>
+	<tr>
+		<td> Outros </td>
 	</tr>
 	<tr>
 		<td rowspan="5" colspan="4"> d) O estabelecimento hospitalar dispõe de plano diretor? </td>
