@@ -37,9 +37,9 @@ Para que o registo de um acordo ou convenção seja feito com sucesso, o utiliza
 
 <p class="caption" id="figRegistaAC"> Campos de preenchimento obrigatório para registar Convenção </p>
 
-Depois de clicar no botão **GRAVAR** o utilizador irá ser notificado do resultado da operação e, caso a convenção tenha sido registada com sucesso, os botões ''Adicionar Área'', ''Associar Estabelecimento'' e ''Associar RH Técnico'' passam a ficar ativos o que é sinalizado pela sua mudança de cor cinzenta para azul ([](#figOpcoesAC)) .
+Depois de clicar no botão **GRAVAR** o utilizador irá ser notificado do resultado da operação e, caso a convenção tenha sido registada com sucesso, os botões ''Adicionar Área'', ''Associar Estabelecimento'' e ''Associar RH Técnico'' passam a ficar ativos o que é sinalizado pela sua mudança de cor cinzenta para azul ([](#FigOpcoesAC)) .
 
-![figOpcoesAC](img/pages/cap15/14_2.JPG)
+![FigOpcoesAC](img/pages/cap15/14_2.JPG)
 
 <p class="caption" id="FigOpcoesAC"> Botões ''Adicionar Área'', ''Associar Estabelecimento'' e ''Associar RH Técnico'' ativos </p>
 
@@ -135,11 +135,11 @@ Para associar um estabelecimento ao acordo/convenção o utilizador deve preench
 
 A identificação do estabelecimento depende de qual é o estabelecimento que se pretende associar de entre os estabelecimentos que pertencem à entidade. 
 
-A escolha das áreas a associar depende das áreas convencionadas que estão associadas à entidade. Ao clicar no botão **ADICIONAR ÁREA**, é possível escolher qual a área que se pretende associar de entre as possíveis; posteriormente é possível selecionar quais a valências e quais os exames abrangidos pela convenção ([]((#figValencias_Exames))).
+A escolha das áreas a associar depende das áreas convencionadas que estão associadas à entidade. Ao clicar no botão **ADICIONAR ÁREA**, é possível escolher qual a área que se pretende associar de entre as possíveis; posteriormente é possível selecionar quais a valências e quais os exames abrangidos pela convenção ([]((#figValenciasExames))).
 
-![figValencias_Exames](img/pages/cap15/14_6.JPG)
+![figValenciasExames](img/pages/cap15/14_6.JPG)
 
-<p class="caption" id="figValencias_Exames"> Possibilidade de selecionar as valências e exames abrangidos pela convenção no estabelecimento. </p>
+<p class="caption" id="figValenciasExames"> Possibilidade de selecionar as valências e exames abrangidos pela convenção no estabelecimento. </p>
 
 Os campos obrigatórios relativos ao Diretor Técnico são os mesmos que já foram referidos para o Responsável Técnico Principal (ver tabela Campos obrigatórios para adicionar área).
 

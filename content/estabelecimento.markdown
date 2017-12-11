@@ -166,7 +166,7 @@ Após o registo dos dados em cada módulo, deve clicar em **GUARDAR** para grava
 
 A página de edição de um estabelecimento está disponível através da consulta do estabelecimento clicando no botão **EDITAR ESTABELECIMENTO**.
 
-Se o utilizador tiver acesso à pesquisa de estabelecimentos ([](#figCamposPesquisaEntidade)) ou à página de estabelecimentos associados a uma entidade ([](#figEstEntidade)) pode navegar diretamente para a edição após selecionar um estabelecimento da lista de resultados e clicar no botão **EDITAR**.
+Se o utilizador tiver acesso à página de estabelecimentos associados a uma entidade ([](#figEstEntidade)) pode navegar diretamente para a edição após selecionar um estabelecimento da lista de resultados e clicar no botão **EDITAR**.
 
 
 A edição deve respeitar o preenchimento dos campos obrigatórios identificados no ponto [7.1 Criar Estabelecimento](#criar-estabelecimento).
@@ -177,7 +177,7 @@ No final da edição o utilizador para gravar as alterações deve clicar no bot
 
 ## 7.3. Consultar Estabelecimento
 
-A consulta dos dados referentes a um estabelecimento é possível se o utilizador tiver acesso à pesquisa de estabelecimentos ([](#figCamposPesquisaEntidade)) ou à página de estabelecimentos associados a uma entidade ([](#figEstEntidade)) o utilizador pode navegar diretamente para a edição após selecionar um estabelecimento da lista de resultados e clicar no botão **CONSULTAR**. 
+A consulta dos dados referentes a um estabelecimento é possível se o utilizador tiver acesso à página de estabelecimentos associados a uma entidade ([](#figEstEntidade)) o utilizador pode navegar diretamente para a edição após selecionar um estabelecimento da lista de resultados e clicar no botão **CONSULTAR**. 
 
 <p id="transfereEstabelecimento"></p>
 
@@ -198,7 +198,7 @@ Se o utilizador confirmar irá ser notificado com o resultado da operação.
 <p id="encerrarEstabelecimento"></p>
 
 ## 7.5. Encerrar Estabelecimento 
-Para encerrar um estabelecimento tem de pesquisar pelo mesmo ([](#figCamposPesquisaEntidade) ou ([](#figEstEntidade)) e depois de o selecionar na lista de resultados deve clicar no botão **ENCERRAR**.
+Para encerrar um estabelecimento, depois de o selecionar na lista de resultados, deve clicar no botão **ENCERRAR** ([](#figEstEntidade)).
 Uma vez na página de **Encerrar Estabelecimento** ([](#figEncerraEstabelecimento)), deve clicar no botão “Encerrar”. Após clicar no botão, surge alerta que confirma se o utilizador pretende encerrar o estabelecimento. Se o utilizador confirmar irá ser notificado com o resultado da operação.
 
 ![figEncerraEstabelecimento](img/pages/cap7/7_5_1.jpg)
@@ -209,7 +209,7 @@ Uma vez na página de **Encerrar Estabelecimento** ([](#figEncerraEstabeleciment
 
 ## 7.6. Histórico Estabelecimento 
 
-A página de histórico de um estabelecimento pode ser acedida através da pesquisa de estabelecimentos ([](#figCamposPesquisaEntidade))  ou através da página de estabelecimentos associados a uma entidade ([](#figEstEntidade)) , selecionando uma entidade da lista de resultados e clicando no botão **HISTÓRICO**.
+A página de histórico de um estabelecimento pode ser acedida através da página de estabelecimentos associados a uma entidade ([](#figEstEntidade)) , selecionando uma entidade da lista de resultados e clicando no botão **HISTÓRICO**.
 Uma vez na página de histórico ([](#figHistoricoEstabelecimento)), o utilizador poderá visualizar todas as versões resultantes da edição da entidade, a data em que as alterações foram efetuadas, o utilizador que as realizou, bem como a identificação dos campos alterados.
 ![figHistoricoEstabelecimento](img/pages/cap7/7_6_1.jpg)
 
