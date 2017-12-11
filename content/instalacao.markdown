@@ -154,7 +154,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 <thead>
   	<tr>
 		<th colspan="8" >
-			<strong> Campos Obrigatórios – Caracterização Geral - <a href="#fig40_1">Fig.56)  </strong>
+			<strong> Campos Obrigatórios – Caracterização Geral - <a href="#fig40_1">Fig.56 </a> </strong>
     	</th>
 	</tr>
 </thead>
@@ -188,22 +188,21 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
     <tr>
 		<td> SCM </td>
 	</tr>
-    <tr>
-    	<td rowspan="5" colspan="6"> Mesma morada que o estabelecimento?</td>
-    	<td rowspan="4"> Sim</td>
+	<tr>
+    	<td rowspan="4" colspan="6"> Mesma morada que o estabelecimento?</td>
+    	<td rowspan="4" colspan="1"> Sim</td>
     	<td > Morada </td>
+    </tr>
+    	<td > Código-Postal </td>
   	</tr>
-  	<tr>
-      	<td> Código-postal</td>
   	</tr>
-   	<tr>
-      	<td> Concelho</td>
+    	<td > Concelho </td>
   	</tr>
-   	<tr>
-      <td > Freguesia </td>
   	</tr>
-   	<tr>
-      <td colspan="2"> Não </td>
+    	<td > Freguesia </td>
+  	</tr>
+  	</tr>
+    	<td > Não </td>
   	</tr>
 	<tr>
 		<td colspan="6" rowspan="2">  d) Edifícios construídos na mesma fase?   </td>
@@ -215,24 +214,24 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td> Quantas fases de construção existiram? </td>
 	</tr>  
 	<tr>
-		<td rowspan="5" colspan="3"> e) O estabelecimento hospitalar dispõe de plano diretor? </td>
-		<td rowspan="4" colspan="2"> Sim </td>
+		<td rowspan="5" colspan="4"> e) O estabelecimento hospitalar dispõe de plano diretor? </td>
+		<td rowspan="4"> Sim </td>
     	<td rowspan="2"> Aprovado </td>
     	<td> Sim </td>
     	<td> Data de aprovação </td> 
  	</tr>
  	<tr>
-     	<td colspan="3"> Não </td>
+    	<td  colspan="6"> Não </td>
  	</tr>
  	<tr>
-      	<td rowspan="2"> Implementado? </td>
-      	<td colspan="2"> Sim</td>
+     	<td rowspan="2"> Implementado? </td>
+      	<td colspan="6"> Sim</td>
  	</tr>
  	<tr>
-     	<td colspan="2"> Não </td>
+    	<td colspan="6"> Não </td>
  	</tr>
  	<tr>
-     	<td colspan="5"> Não </td>
+     	<td colspan="4"> Não </td>
  	</tr>
 	<tr>
 		<td colspan="5" rowspan="5"> f)  Heliporto? </td>
