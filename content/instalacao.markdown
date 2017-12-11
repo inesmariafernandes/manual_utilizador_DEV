@@ -189,7 +189,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td> SCM </td>
 	</tr>
 	<tr>
-    	<td rowspan="4" colspan="6"> Mesma morada que o estabelecimento?</td>
+    	<td rowspan="5" colspan="6"> Mesma morada que o estabelecimento?</td>
     	<td rowspan="4" colspan="1"> Sim</td>
     	<td > Morada </td>
     </tr>
