@@ -204,7 +204,7 @@ Os serviços de urgência básica (SUB) (ver [](#fig40_0)) da entidade devem ser
 		<td > Freguesia </td>
   	</tr>
 	<tr>
-    	 <td > Não </td>
+    	 <td colspan="3"> Não </td>
   	</tr>
 	<tr>
 		<td colspan="6" rowspan="2">  d) Edifícios construídos na mesma fase?   </td>
