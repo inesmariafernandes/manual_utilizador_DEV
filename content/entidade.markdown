@@ -14,7 +14,12 @@ title: "Entidade"
 A funcionalidade de criar uma entidade apenas é disponibilizada a utilizadores com o perfil ACSS por esse motivo, caso pretenda criar uma nova entidade, por favor contacte a ACSS.
 
 ## 6.2.Editar Entidade
-Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)). <mark> *Em produção este paragrafo não deve ser visível.* </mark>
+
+<mark> *Em produção este paragrafo não deve ser visível.* </mark>
+
+Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)). 
+
+
 
 ![figEditarARS](img/pages/cap6/edita_ars.JPG)
 
@@ -85,7 +90,11 @@ A funcionalidade de encerrar uma entidade apenas é disponibilizada a utilizador
 <p id="historicoEntidade"></p>
 
 ## 6.5.Histórico Entidade
+
+<mark> *Em produção este paragrafo não deve ser visível.* </mark>
+
 <mark> *Definir como é que se acede ao histórico*</mark>
+
 Uma vez na página de histórico ([](#figHistoricoEntidade)) o utilizador poderá visualizar todas as versões resultantes da edição da entidade, a data em que as alterações foram efetuadas, o utilizador que as realizou, bem como a identificação dos campos alterados.
 Nesta página estão também registados os estabelecimentos transferidos e encerrados da entidade.
 
