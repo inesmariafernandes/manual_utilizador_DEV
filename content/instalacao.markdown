@@ -381,9 +381,6 @@ Pode inserir informação acerca das áreas e estacionamento, tendo de carregar 
 
 <p class="caption" id="fig41"> Criar Instalação - Áreas Totais e Estacionamento</p>
 
-As áreas dos hospitais contemplam as áreas de prestação de cuidados de saúde e de apoio (investigação, técnicas, entre outras).
-<mark> As casas de função (usadas, por exemplo, por funcionários realocados) não contam para as áreas.
-Relativamente às SUBS e RNCCI, as suas áreas devem ser contabilizadas.</mark>
 
 Relativamente ao estacionamento:
 * Os lugares de estacionamento são os lugares de estacionamento disponíveis no estabelecimento hospitalar;
@@ -396,6 +393,10 @@ O separador *Caracterização do Edifício* contém os dados referentes ao(s) ed
 ![fig42](img/pages/cap14/42.JPG)
 
 <p class="caption" id="fig42"> Caracterização do Edifício</p>
+
+As áreas dos hospitais contemplam as áreas de prestação de cuidados de saúde e de apoio (investigação, técnicas, entre outras).
+As casas de função (usadas, por exemplo, por funcionários realocados) não contam para as áreas.
+Relativamente às SUBS e RNCCI, as suas áreas devem ser contabilizadas.
 
 O separador *Projeto* visa caracterizar o projeto de construção do hospital , tal como os custos associados e datas chave. Estes dados devem ser inseridos para cada fase de construção dos edifícios.
 
