@@ -15,7 +15,7 @@ A funcionalidade de criar uma entidade apenas é disponibilizada a utilizadores 
 
 ## 6.2.Editar Entidade
 
-<mark> *Em produção este paragrafo não deve ser visível.* </mark>
+<mark> *Em qualidade e produção deve ser mostrada apenas a frase: "Neste momento esta funcionalidade apenas é disponibilizada a utilizadores com o perfil ACSS". * </mark>
 
 Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)). 
 
@@ -91,7 +91,7 @@ A funcionalidade de encerrar uma entidade apenas é disponibilizada a utilizador
 
 ## 6.5.Histórico Entidade
 
-<mark> *Em produção este paragrafo não deve ser visível.* </mark>
+<mark> *Em qualidade e produção deve ser mostrada apenas a frase: "Neste momento esta funcionalidade apenas é disponibilizada a utilizadores com o perfil ACSS". * </mark>
 
 <mark> *Definir como é que se acede ao histórico*</mark>
 
