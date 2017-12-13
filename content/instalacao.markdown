@@ -24,7 +24,7 @@ Para aceder às  instalações de um estabelecimento, o utilizador tem três alt
 
 <p class="caption" id="fig39"> Aceder às Instalações de um estabelecimento </p>
 
-![figEstabeSInst](img/pages/38.JPG)
+![figEstabeSInst](img/pages/cap14/38.JPG)
 
 <p class="caption" id="figEstabeSInst"> Exemplo de Estabelecimento sem Instalações</p>
 
