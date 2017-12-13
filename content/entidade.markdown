@@ -14,7 +14,7 @@ title: "Entidade"
 A funcionalidade de criar uma entidade apenas é disponibilizada a utilizadores com o perfil ACSS por esse motivo, caso pretenda criar uma nova entidade, por favor contacte a ACSS.
 
 ## 6.2.Editar Entidade
-Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)).
+Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)). <mark> *Em produção este paragrafo não deve ser visível.* </mark>
 
 ![figEditarARS](img/pages/cap6/edita_ars.JPG)
 
