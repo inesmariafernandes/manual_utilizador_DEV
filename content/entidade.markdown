@@ -29,50 +29,65 @@ Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a qu
 
 <p class="caption" id="figEditarEntidade">Editar Entidades pertencentes à ARS </p>
 
-<mark> *A edição deve respeitar o preenchimento dos campos obrigatórios que dependem do tipo de entidade como ilustrado nas tabelas e imagens abaixo.* </mark>
+A edição deve respeitar o preenchimento dos campos obrigatórios que dependem do tipo de entidade como ilustrado nas tabelas e imagens abaixo.
 
 
-|    | Campos obrigatórios para editar uma entidade        |                 |             |   |
-|----|-----------------------------------------------------|-----------------|-------------|---|
-| a) | Denominação                                         |                 |             |   |
-| b) | Natureza Jurídica                                   |                 |             |   |
-| c) | Tipo Entidade (se natureza jurídica = Pública)      | Natureza Jurídica | Tipo Entidade |   |
-|----|-----------------------------------------------------|-----------------|-------------|---|
-| d) | ARS                                                 |    Pública      |ACES              |   |
-|    |                                                     |                 |Centro Hospitalar |   |
-|    |                                                     |                 |Hospital          |   |
-|    |                                                     |                 |ULS               |   |
-| e) | Tipo Entidade                                       |    Pública      |ACES              |   |
-|    |                                                     |                 |Centro Hospitalar |   |
-|    |                                                     |                 |Hospital          |   |
-|    |                                                     |                 |ULS               |   |
-| e) | Integra                                             |    Pública      |ACES              |   |
-| g) | Matrícula                                           |    Privada      |                  |   |
-|    |                                                     |    IPSS         |                  |   |
-|    |                                                     |  Cooperativa    |                  |   |
-| h) | Volume de negócios global                           |    Privada      |                  |   |
-|    |                                                     |    IPSS         |                  |   |
-|    |                                                     |  Cooperativa    |                  |   |
-| i) | Tipo de Atividade Principal (CAE)                   |    Privada      |                  |   |
-|    |                                                     |    IPSS         |                  |   |
-|    |                                                     |    Cooperativa  |                  |   |
-| j) | Tipo de Atividade Secundária (CAE)                  |    Privada      |                  |   |
-|    |                                                     |    IPSS         |                  |   |
-|    |                                                     |    Cooperativa  |                  |   |
-| k) | Morada                                              |                 |             |   |
-| l) | Código Postal                                       |                 |             |   |
-| m) | Distrito                                            |                 |             |   |
-| n) | Concelho                                            |                 |             |   |
-| o) | Freguesia                                           |                 |             |   |
-| p) | Telefone                                            |                 |             |   |
-| q) | Fax                                                 |                 |             |   |
-| r) | E-mail                                              |                 |             |   |
-| s) | Site                                                |                 |             |   |
-| t) | Capital estatuário ou social € (Exceto natureza jurídica = Pública e tipo de entidade = ACES)|         |             |   |
-| u) | Fonte de informação                                 |                 |             |   |
-| v) | Existe Equipamento Pesado?                          |                 |             |   |
-| x) | Identificação dos corpos Gerentes/ Conselho de administração    |     |             |   |
-| y) | Identificação dos Sócios/Acionistas (só se natureza jurídica = Privada) |     |     |   |
+|    | Campos obrigatórios para editar qualquer tipo de entidade             |              |   |
+|----|----------------------------------------------------------------------|---------------|---|
+| a) | Denominação                                                          |               |   |
+| b) | Estado                                                               |               |   |
+| c) | Nº Registo ERS                                                       |               |   |
+| d) | Data início atividade                                                |               |   |
+| e) | Morada                                                               |               |   |
+| f) | Código-Postal                                                        |               |   |
+| g) | Distrito                                                             |               |   |
+| h) | Concelho                                                             |               |   |
+| i) | Freguesia                                                            |               |   |
+| j) | Telefone                                                             |               |   |
+| l) | Fax                                                                  |               |   |
+| m) | Endereço eletrónico                                                  |               |   |
+| n) | Site                                                                 |               |   |
+| o) | Capital                                                              |               |   |
+| p) | Fonte de informação                                                  | ACSS          |   |
+|    |                                                                      | ERS           |   |
+|    |                                                                      | Entidade      |   |     |    |                                                                      | NCSP          |   |     |    |                                                                      |Portal da Saúde|   |
+| q) | Convencionada?                                                       | Sim           |   |
+|    |                                                                      | Não           |   |
+
+
+![figEditarGeral](img/pages/cap6/editar_ent_geral.JPG)
+
+<p class="caption" id="figEditarGeral">Campos obrigatórios para editar qualquer tipo de entidade</p>
+
+
+|    | Campos obrigatórios para editar para entidades                       |               |   |
+|    |        com Natureza Jurídica= Cooperativa                            |               |   |
+|----|----------------------------------------------------------------------|---------------|---|
+| a) | Matrícula                                                            |               |   |
+| b) | Volume de Negócios Global                                            |               |   |
+| c) | Tipo de Atividade Principal                                          |               |   |
+| d) | Tipo de Atividade Secundária                                         |               |   |
+| e) | Gerentes/Concelho de dministração                                    |               |   |
+
+![figEditarCoop](img/pages/cap6/edita_ent_cooperativa.JPG)
+
+<p class="caption" id="figEditarCoop">Campos obrigatórios para editar para entidades com Natureza Jurídica = Cooperativa </p>
+
+|    | Campos obrigatórios para editar para entidades                    |                  |   |
+|    |        com Natureza Jurídica= Pública                             |                  |   |
+|----|-------------------------------------------------------------------|------------------|---|
+| a) | ARS                                                               |ACES              |   |
+|    |                                                                   |Centro Hospitalar |   |
+|    |                                                                   |Hospital          |   |
+|    |                                                                   |ULS               |   |
+| b) | Tipo de Entidade Jurídica                                         |  EPE             |   |
+|    |                                                                   |   IP             |   |
+|    |                                                                   |     PPP          |   |
+|    |                                                                   |        SPA       |   |
+
+![figEditarPub](img/pages/cap6/edita_ent_publica.JPG)
+
+<p class="caption" id="figEditarPub">Campos obrigatórios para editar para entidades com Natureza Jurídica = Pública </p>
 
 
 Para gravar as alterações, no final da edição, o utilizador  deve clicar no botão **GUARDAR**. Após clicar irá ser notificado com o resultado da operação.

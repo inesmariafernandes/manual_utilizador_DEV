@@ -41,7 +41,7 @@ Depois de clicar no botão **GRAVAR** o utilizador irá ser notificado do result
 
 ![FigOpcoesAC](img/pages/cap15/14_2.JPG)
 
-<p class="caption" id="FigOpcoesAC"> Botões ''Adicionar Área'', ''Associar Estabelecimento'' e ''Associar RH Técnico'' ativos </p>
+<p class="caption" id="FigOpcoesAC"> Botões ''fAdicionar Área'', ''Associar Estabelecimento'' e ''Associar RH Técnico'' ativos </p>
 
 <p id="areaConvencionada"></p>
 
