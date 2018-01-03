@@ -232,6 +232,8 @@ O novo acordo/convenção passa a poder ser editado, consultado e o seu estado a
 
 <p class="caption" id="figPainel_confir"> Página de verificação da informação que consta na Ficha Técnica. </p>
 
+<mark> * Em qualidade os dois sub-títulos devem aparecer comentados. Em Produção o capítulo 15 devem aparecer comentado. *</mark>
+
 <p id="atualizar"></p>
 ## 15.7 Importar Atualizações da Ficha Técnica
 Caso deseje atualizar informação relativa a um acordo/convenção, o utilizador pode fazê-lo através de um carregamento de um ficheiro com as atualizações. 
