@@ -15,9 +15,14 @@ A funcionalidade de criar uma entidade apenas é disponibilizada a utilizadores 
 
 ## 6.2.Editar Entidade
 
-<mark> *Em qualidade e produção deve ser mostrada apenas a frase: "Neste momento esta funcionalidade apenas é disponibilizada a utilizadores com o perfil ACSS". * </mark>
+Neste momento esta funcionalidade apenas é disponibilizada a utilizadores com o perfil ACSS e SGES_ENTIDADE.
+Utilizadores com o perfil SGES_ENTIDADE podem editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarEntidade)).
 
-Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)). 
+![figEditarEntidade](img/pages/cap6/editar_sges_entidade.JPG)
+
+<p class="caption" id="figEditarEntidade">Editar Entidade com o perfil SGES_ENTIDADE</p>
+
+<!-- Utilizadores com o perfil ARS_ADMIN têm permissões para editar a entidade a que pertencem  após clicarem no botão **EDITAR ENTIDADE** ([](#figEditarARS)). Têm também permissão para editar as entidades que lhes pertecem, pesquisando a entidade que pretendem editar, selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figEditarEntidade)). 
 
 
 
@@ -92,7 +97,7 @@ A edição deve respeitar o preenchimento dos campos obrigatórios que dependem 
 
 Para gravar as alterações, no final da edição, o utilizador  deve clicar no botão **GUARDAR**. Após clicar irá ser notificado com o resultado da operação.
 
-<p id="consultaEntidade"></p>
+<p id="consultaEntidade"></p> -->
 
 ## 6.3.Consultar Entidade
 A página de consulta das informações de uma entidade pode ser consultada no *tab* Entidade do menu Entidade.
@@ -106,11 +111,10 @@ A funcionalidade de encerrar uma entidade apenas é disponibilizada a utilizador
 
 ## 6.5.Histórico Entidade
 
-<mark> *Em qualidade e produção deve ser mostrada apenas a frase: "Neste momento esta funcionalidade apenas é disponibilizada a utilizadores com o perfil ACSS". * </mark>
+Neste momento esta funcionalidade apenas é disponibilizada a utilizadores com o perfil ACSS.
 
-<mark> *Definir como é que se acede ao histórico*</mark>
 
-Uma vez na página de histórico ([](#figHistoricoEntidade)) o utilizador poderá visualizar todas as versões resultantes da edição da entidade, a data em que as alterações foram efetuadas, o utilizador que as realizou, bem como a identificação dos campos alterados.
+<!-- Uma vez na página de histórico ([](#figHistoricoEntidade)) o utilizador poderá visualizar todas as versões resultantes da edição da entidade, a data em que as alterações foram efetuadas, o utilizador que as realizou, bem como a identificação dos campos alterados.
 Nesta página estão também registados os estabelecimentos transferidos e encerrados da entidade.
 
 ![figHistoricoEntidade](img/pages/cap6/6_5_1.jpg)
@@ -122,21 +126,4 @@ Ao selecionar uma das versões e, posteriormente, clicar no botão **DETALHE** o
 ![figDetalheHistoricoEntidade](img/pages/cap6/6_5_2.jpg)
 
 <p class="caption" id="figDetalheHistoricoEntidade"> Detalhe histórico de Entidade</p>
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ -->
