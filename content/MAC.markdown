@@ -191,21 +191,45 @@ Para visualizar cada um dos campos relativos ao acordo ou convenção - identifi
 <p id="alteraEstado"></p>
 ## 15.4 Alterar Estado 
 
-<p id="altera-Estado-acordo"></p>
-## 15.4.1 Alterar Estado do Acordo/Convenção
-
-O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO** ([](#figAltAC)). 
+O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO ACORDO/CONVENÇÃO** ([](#figAltAC)). 
 
 ![figAltAC](img/pages/cap15/14_10.JPG)
 
 <p class="caption" id="figAltAC"> Acordo selecionado e botão "Alterado Estado Convenção" ativo e destacado a amarelo. </p>
 
-O utilizador é conduzido a uma página onde pode alterar o estado de cada acordo/convenção associado ao estabelecimento e selecionar o motivo da alteração de estado. 
+O utilizador é conduzido a uma página na qual pode:
+*I) Consultar e/ou alterar o estado dos exames associados ao estabelecimento;*
 
-<p id="altera-Estado-valencias"></p>
-## 15.4.2 Alterar Estado das Valências
+Para consultar e/ou alterar o estado dos exames associados ao estabelecimento deve carregar no botão destacado em [](#fig15).
 
-O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO** e, finalmente, no botão **DETALHES**. O utilzador é conduzido a uma página onde pode, alterar o estado de cada valência e exame e selecionar o motivo da alteração de estado.
+![fig15](img/pages/cap15/15.JPG)
+
+<p class="caption" id="fig15"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado dos exames associados ao estabelecimento destacado a amarelo. </p>
+
+*II) Editar o estado do estabelecimento;*
+
+Para editar o estado do estabelecimento deve carregar no botão destacada em [](#fig16).
+
+![fig16](img/pages/cap15/16.JPG)
+
+<p class="caption" id="fig16"> Botão que o utilizador deve pressionar para editar o estado do estabelecimento destacado a amarelo. </p>
+
+*III) Consultar e/ou alterar o estado das valências;*
+
+Para consultar e/ou alterar o estado das valências o utilizador deve carregar no botão destacado na [](#fig17).
+
+[fig17](img/pages/cap15/17.JPG)
+
+<p class="caption" id="fig17"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado das valências destacado a amarelo. </p>
+
+*IV) Editar o estado da área convencionada.*
+
+Para editar o estado da área convencionada o utilizador deve carregar no botão destacado na figura [](#fig18).
+
+[fig18](img/pages/cap15/18.JPG)
+
+<p class="caption" id="fig18"> Botão que o utilizador deve pressionar para editar o estado da área convencionada. </p>
+
 
 <p id="importar"></p>
 ## 15.5 Importar Ficha Técnica
