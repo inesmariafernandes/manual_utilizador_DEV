@@ -398,6 +398,8 @@ As áreas dos hospitais contemplam as áreas de prestação de cuidados de saúd
 As casas de função (usadas, por exemplo, por funcionários realocados) não contam para as áreas.
 Relativamente às SUBS e RNCCI, as suas áreas devem ser contabilizadas.
 
+<br><br>
+
 O separador *Projeto* visa caracterizar o projeto de construção do hospital , tal como os custos associados e datas chave. Estes dados devem ser inseridos para cada fase de construção dos edifícios.
 
 ![fig43](img/pages/cap14/43.JPG)
@@ -417,6 +419,13 @@ O separador *Construção* visa caracterizar os custos da construção e os cust
 ![fig45](img/pages/cap14/45.JPG)
 
 <p class="caption" id="fig45"> Caracterização da Construção</p>
+
+No separador *SCIE* o utilizador por registar informação acerca da segurança contra incêndios que os edfícios possuem.
+
+![fig60](img/pages/cap14/60.JPG)
+
+<p class="caption" id="fig60"> Segurança Contra Incêncios em Edífícios</p>
+
 
 <p id="detalhe-inst"></p>
 ### 14.1.2 Detalhe
