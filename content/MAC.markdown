@@ -197,8 +197,13 @@ O utilizador pode alterar o estado do acordo/convenção após selecionar o acor
 
 <p class="caption" id="figAltAC"> Acordo selecionado e botão "Alterado Estado Convenção" ativo e destacado a amarelo. </p>
 
+<br> <br>
+
 O utilizador é conduzido a uma página na qual pode:
-*I) Consultar e/ou alterar o estado dos exames associados ao estabelecimento;*
+
+<br><br>
+
+### **I) Consultar e/ou alterar o estado dos exames associados ao estabelecimento**
 
 Para consultar e/ou alterar o estado dos exames associados ao estabelecimento deve carregar no botão destacado em [](#fig15).
 
@@ -206,7 +211,7 @@ Para consultar e/ou alterar o estado dos exames associados ao estabelecimento de
 
 <p class="caption" id="fig15"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado dos exames associados ao estabelecimento destacado a amarelo. </p>
 
-*II) Editar o estado do estabelecimento;*
+### **II) Editar o estado do estabelecimento**
 
 Para editar o estado do estabelecimento deve carregar no botão destacada em [](#fig16).
 
@@ -214,7 +219,7 @@ Para editar o estado do estabelecimento deve carregar no botão destacada em [](
 
 <p class="caption" id="fig16"> Botão que o utilizador deve pressionar para editar o estado do estabelecimento destacado a amarelo. </p>
 
-*III) Consultar e/ou alterar o estado das valências;*
+### **III) Consultar e/ou alterar o estado das valências**
 
 Para consultar e/ou alterar o estado das valências o utilizador deve carregar no botão destacado na [](#fig17).
 
