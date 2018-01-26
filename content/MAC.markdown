@@ -219,7 +219,7 @@ Para editar o estado do estabelecimento deve carregar no botão destacada em [](
 
 <p class="caption" id="fig16"> Botão que o utilizador deve pressionar para editar o estado do estabelecimento destacado a amarelo. </p>
 
-### **III) Consultar e/ou alterar o estado das valências**
+#### **III) Consultar e/ou alterar o estado das valências**
 
 Para consultar e/ou alterar o estado das valências o utilizador deve carregar no botão destacado na [](#fig17).
 
