@@ -235,9 +235,30 @@ Para editar o estado da área convencionada o utilizador deve carregar no botão
 
 <p class="caption" id="fig18"> Botão que o utilizador deve pressionar para editar o estado da área convencionada. </p>
 
+<p id="historicoConvencao"></p>
+## 15.5 Histórico Convenções
+
+A página de histórico de um acordo/convenção pode ser acedida através da lista de convenções da entidade e clicando no botão **HISTÓRICO** .
+Uma vez na página de histórico poderá visualizar a data das alterações, o utilizador que as realizou e os paineis que afetaram [](#fig19).
+
+![fig19](img/pages/cap15/19.JPG)
+
+<p class="caption" id="fig19"> Histórico Convenção </p>
+
+
+<p id="exportar"></p>
+## 15.6 Exportar Ficha Técnica
+
+![fig19](img/pages/cap15/19.JPG)
+
+<p class="caption" id="fig19"> Histórico Convenção </p>
+
+![fig19](img/pages/cap15/19.JPG)
+
+<p class="caption" id="fig19"> Histórico Convenção </p>
 
 <p id="importar"></p>
-## 15.5 Importar Ficha Técnica
+## 15.7 Importar Ficha Técnica
 
 É possível registar um acordo/convenção através do carregamento de um ficheiro que contém a informação relativa ao mesmo.
 Este ficheiro deve ser preenchido seguindo as regras referidas no documento que contém as instruções de preenchimento do mesmo.
@@ -259,7 +280,7 @@ O novo acordo/convenção passa a poder ser editado, consultado e o seu estado a
 <mark> * Em qualidade os dois sub-títulos devem aparecer comentados. Em Produção o capítulo 15 devem aparecer comentado. *</mark>
 
 <p id="atualizar"></p>
-## 15.6 Importar Atualizações da Ficha Técnica
+## 15.8 Importar Atualizações da Ficha Técnica
 Caso deseje atualizar informação relativa a um acordo/convenção, o utilizador pode fazê-lo através de um carregamento de um ficheiro com as atualizações. 
 Este ficheiro deve ser preenchido seguindo as regras referidas no documento que contém as instruções de preenchimento do mesmo.
 A importação das atualizações tem de ser realizada no sub-menu Atualizar Ficha Técnica que consta no menu Ficha Técnica.
@@ -272,33 +293,4 @@ O utilizador é encaminhado para uma página onde pode anexar e carregar as fich
 Depois de carregar a ficha técnica, é mostrada uma página de verificação da informação onde o utilizador pode consultar a informação que carregou ([](#figPainel_confir)).
 Caso a informação seja confirmada, esta informação passa a ter de ser sujeita a aprovação.
 
-<p id="aprovacoesPendentes"></p>
-## 15.7 Aprovação das Atualizações da Ficha Técnica
-Para uma determinada atualização, vai ser permitida a consulta, simultânea, dos dados que constam na base de dados e as novas informações e aprovar ou excluir a atualização ([](#figPainel_comp)).
-Caso o utilizador aprove, a nova informação substitui a anterior.
-Caso o utilizador exclua, os dados presentes na ficha técnica permanecem inalterados.
-
-![figPainel_comp](img/pages/cap15/14_14.JPG)
-
-<p class="caption" id="figPainel_comp"> Página de verificação da informação que consta na Ficha Técnica. </p>
- 
- <p id="aconvencao"></p>
-## 15.8 Validação das Atualizações da Ficha Técnica
-Depois da aprovação, os novos dados passam a ficar incluídos na base de dados, i.e., os campos da ficha técnica que sofreram alterações são atualizados. 
-Assim, no sub-menu Atualizações Por Aprovar, deixa de ser possível consultar as atualizações ao acordo/convenção e estas são transferidas para o ‘’separador’’ ‘’Atualizações Por Validar‘’ ([](#fig14_17)), presente no separador ‘’Acordos/Convenções’’ da entidade em causa ([](#fig14_16)).
-
-![fig14_16](img/pages/cap15/14_16.JPG)
-
-<p class="caption" id="fig14_16"> Separador Acordos/Convenções de uma entidade. </p>
-
-![fig14_17](img/pages/cap15/14_17.JPG)
-
-<p class="caption" id="fig14_17"> Separador Atualizações por Validar. </p>
-
-Quando o utilizador carrega no botão Validar ([](#fig14_17)), é direcionado para uma página onde pode visualizar e validar ou não, os blocos de informação que foram atualizados ([](#fig14_18)). 
-Pode também visualizar os blocos de informação que não foram atualizados e, por isso, são mostrados como validados.
-
-![fig14_18](img/pages/cap15/14_18.JPG)
-
-<p class="caption" id="fig14_18"> Página de validação das atualizações. </p>
 
