@@ -203,7 +203,7 @@ O utilizador é conduzido a uma página na qual pode:
 
 <br><br>
 
-### **I) Consultar e/ou alterar o estado dos exames associados ao estabelecimento**
+#### **I) Consultar e/ou alterar o estado dos exames associados ao estabelecimento**
 
 Para consultar e/ou alterar o estado dos exames associados ao estabelecimento deve carregar no botão destacado em [](#fig15).
 
@@ -211,7 +211,7 @@ Para consultar e/ou alterar o estado dos exames associados ao estabelecimento de
 
 <p class="caption" id="fig15"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado dos exames associados ao estabelecimento destacado a amarelo. </p>
 
-### **II) Editar o estado do estabelecimento**
+#### **II) Editar o estado do estabelecimento**
 
 Para editar o estado do estabelecimento deve carregar no botão destacada em [](#fig16).
 
@@ -227,7 +227,7 @@ Para consultar e/ou alterar o estado das valências o utilizador deve carregar n
 
 <p class="caption" id="fig17"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado das valências destacado a amarelo. </p>
 
-*IV) Editar o estado da área convencionada.*
+#### **IV) Editar o estado da área convencionada**
 
 Para editar o estado da área convencionada o utilizador deve carregar no botão destacado na figura [](#fig18).
 
