@@ -659,16 +659,17 @@ Contratos ativos correspondem a contratos em vigor e contratos renovados.
 
 <p class="caption" id="filtrar"> Pesquisa de Contratos </p>
 
-<!--<p id="avaliao-ps-ocupao"></p> 
+<p id="avaliao-ps-ocupao"></p> 
 ### 14.1.6 Avaliação Pós-Ocupação
 
-É neste separador que o utilizador pode registar informação acerca da avaliação dos edifícios da instalação; útil instrumento na implementação de melhorias na criação de edifícios no futuro.
+Este separador apenas é editado por utilizadores aos quais tenha sido atribuído o perfil ACSS.
+Neste separador é possível registar informação acerca da avaliação dos edifícios da instalação o que representa um útil instrumento na implementação de melhorias na criação de edifícios no futuro.
 
-|    | Campos em Avaliação Pós-Ocupação – ([](#fig58))    | |
+|    | Campos em Avaliação Pós-Ocupação – ([](#fig58))           | |
 |----|-----------------------------------------------------------|-| 
-|a)  | Existe APO efetuada?                | Data de realização |
-|b)  | Serviços avaliados                						||
-|c)  | Upload para repositório?            | Ficheiro           |
+|a)  | Data de realização                                        | |
+|b)  | Serviços avaliados                						 | |
+|c)  | Upload para repositório?            | Ficheiro              |
 
 ![fig58](img/pages/cap14/58.JPG)
 
@@ -676,11 +677,12 @@ Contratos ativos correspondem a contratos em vigor e contratos renovados.
 
 <p id="acao-acss"></p>
 ### 14.1.7 Ações ACSS
-É neste separador que o utilizador pode registar informação de todas as ações que a ACSS executou naquelas instalações.
+Este separador apenas é editado por utilizadores aos quais tenha sido atribuído o perfil ACSS, no entanto, pode ser consultado por utilizadores com o perfil Entidades ou Instalações.
+Neste separador que o utilizador é possível registar informação de todas as ações que a ACSS executou naquelas instalações.
 
-|    | Campos em Ações ACSS – ([](#fig59))     | |
+|    | Campos em Ações ACSS – ([](#fig59))                       | |
 |----|-----------------------------------------------------------|-|
-| a) | Existem ações realizadas no estabelecimento, pela ACSS? |Data de realização |
+| a) |Data de realização                                         | |
 | b) | Tipo de Ação                          |Avaliações do estado das instalações |
 ||                                           |Estudo-piloto |
 ||                                           |Outros |
@@ -692,7 +694,7 @@ Contratos ativos correspondem a contratos em vigor e contratos renovados.
 
 ![fig59](img/pages/cap14/59.JPG)
 
-<p class="caption" id="fig59"> Ações ACSS </p> -->
+<p class="caption" id="fig59"> Ações ACSS </p>
 
 <p id="editar-instalaes"></p>  
 ## 14.2. Editar Instalações
