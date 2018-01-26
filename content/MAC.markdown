@@ -223,7 +223,7 @@ Para editar o estado do estabelecimento deve carregar no botão destacada em [](
 
 Para consultar e/ou alterar o estado das valências o utilizador deve carregar no botão destacado na [](#fig17).
 
-[fig17](img/pages/cap15/17.JPG)
+![fig17](img/pages/cap15/17.JPG)
 
 <p class="caption" id="fig17"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado das valências destacado a amarelo. </p>
 
@@ -231,7 +231,7 @@ Para consultar e/ou alterar o estado das valências o utilizador deve carregar n
 
 Para editar o estado da área convencionada o utilizador deve carregar no botão destacado na figura [](#fig18).
 
-[fig18](img/pages/cap15/18.JPG)
+![fig18](img/pages/cap15/18.JPG)
 
 <p class="caption" id="fig18"> Botão que o utilizador deve pressionar para editar o estado da área convencionada. </p>
 
