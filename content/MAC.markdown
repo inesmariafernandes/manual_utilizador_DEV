@@ -12,12 +12,7 @@ Todas elas podem ser realizadas indiretamente - acedendo ao menu Entidade onde o
 
 <p id="registaAconvencao"></p>
 
-<p id="pesquisa-convencao"></p>
-## 15.1 Pesquisar Acordo/Convenção
-
-A lista de acordos/convenções de uma determinada entidade pode ser acedida através da pesquisa de entidades ou, caso o utilizador tenha acesso ao menu Acordos e Convenções, pode navegar diretamente para a lista de acordos/convenções de uma determinada entidade após selecionar uma entidade e clicar no botão **CONSULTAR**.
-
-## 15.2. Regista Convenção
+## 15.1. Regista Convenção
 
 Para criar um acordo ou convenção o utilizador deve clicar no botão **CRIAR** ([](#figCriarAC) ).
 
@@ -45,7 +40,7 @@ Depois de clicar no botão **GRAVAR** o utilizador irá ser notificado do result
 
 <p id="areaConvencionada"></p>
 
-## 15.2.1. Adicionar Área
+## 15.1.1. Adicionar Área
 
 Para adicionar uma área convencionada o utilizador deve preencher os campos obrigatórios do formulário e clicar em **GRAVAR** ([](#figadiciona_area)) .
 
@@ -117,7 +112,7 @@ Depois de preencher todos os campos o utilizador deve clicar no botão **GUARDAR
 
 
 <p id="estabelecimentosConvencionados"></p>
-## 15.2.2. Associar Estabelecimento
+## 15.1.2. Associar Estabelecimento
 
 Para associar um estabelecimento ao acordo/convenção o utilizador deve preencher os campos obrigatórios do formulário correspondente e clicar em **GRAVAR** ([](#figAssociar_Estabelecimento)). 
 
@@ -147,7 +142,7 @@ Se o utilizador pretende adicionar diretores técnicos substitutos, deve clicar 
 
 <p id="rhConvencao"></p>
 
-## 15.2.3. Adicionar Recursos Humanos Técnicos
+## 15.1.3. Adicionar Recursos Humanos Técnicos
 
 Para adicionar recursos humanos técnicos, basta clicar no botão **ASSOCIAR RH TÉCNICO**. O utilizador é encaminhado para uma página que contém um formulário cujos campos obrigatórios devem ser preenchidos ([](#figAdicionar_RH_Tecnicos)).
 
@@ -167,7 +162,7 @@ Para que os dados relativos ao recurso humano técnico sejam guardados, o utiliz
 
 <p id="alteraConvencao"></p>
 
-## 15.3 Editar Acordo
+## 15.2 Editar Acordo
 
 Para editar um acordo ou convenção o utilizador deve selecionar o acordo/convenção que pretende editar e clicar no botão **EDITAR** ([](#figEditAC)).
 
@@ -183,7 +178,7 @@ No final da edição de cada um dos campos do acordo ou convenção o utilizador
 
 <p id="consultaAconvencao"></p>
 
-## 15.4 Consultar Acordo
+## 15.3 Consultar Acordo
 
 Para consultar um acordo ou convenção o utilizador deve selecionar o acordo/convenção que pretende consultar e clicar no botão **CONSULTAR** ([](#figConsultarAC)).
 
@@ -194,10 +189,10 @@ Para consultar um acordo ou convenção o utilizador deve selecionar o acordo/co
 Para visualizar cada um dos campos relativos ao acordo ou convenção - identificação da entidade, áreas convencionadas, estabelecimentos e recursos humanos técnicos - o utilizador deverá clicar no botão **+** relativo a cada uma das áreas.
 
 <p id="alteraEstado"></p>
-## 15.5 Alterar Estado 
+## 15.4 Alterar Estado 
 
 <p id="altera-Estado-acordo"></p>
-## 15.5.1 Alterar Estado do Acordo/Convenção
+## 15.4.1 Alterar Estado do Acordo/Convenção
 
 O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO** ([](#figAltAC)). 
 
@@ -208,12 +203,12 @@ O utilizador pode alterar o estado do acordo/convenção após selecionar o acor
 O utilizador é conduzido a uma página onde pode alterar o estado de cada acordo/convenção associado ao estabelecimento e selecionar o motivo da alteração de estado. 
 
 <p id="altera-Estado-valencias"></p>
-## 15.5.2 Alterar Estado das Valências
+## 15.4.2 Alterar Estado das Valências
 
 O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO** e, finalmente, no botão **DETALHES**. O utilzador é conduzido a uma página onde pode, alterar o estado de cada valência e exame e selecionar o motivo da alteração de estado.
 
 <p id="importar"></p>
-## 15.6 Importar Ficha Técnica
+## 15.5 Importar Ficha Técnica
 
 É possível registar um acordo/convenção através do carregamento de um ficheiro que contém a informação relativa ao mesmo.
 Este ficheiro deve ser preenchido seguindo as regras referidas no documento que contém as instruções de preenchimento do mesmo.
@@ -235,7 +230,7 @@ O novo acordo/convenção passa a poder ser editado, consultado e o seu estado a
 <mark> * Em qualidade os dois sub-títulos devem aparecer comentados. Em Produção o capítulo 15 devem aparecer comentado. *</mark>
 
 <p id="atualizar"></p>
-## 15.7 Importar Atualizações da Ficha Técnica
+## 15.6 Importar Atualizações da Ficha Técnica
 Caso deseje atualizar informação relativa a um acordo/convenção, o utilizador pode fazê-lo através de um carregamento de um ficheiro com as atualizações. 
 Este ficheiro deve ser preenchido seguindo as regras referidas no documento que contém as instruções de preenchimento do mesmo.
 A importação das atualizações tem de ser realizada no sub-menu Atualizar Ficha Técnica que consta no menu Ficha Técnica.
@@ -249,7 +244,7 @@ Depois de carregar a ficha técnica, é mostrada uma página de verificação da
 Caso a informação seja confirmada, esta informação passa a ter de ser sujeita a aprovação.
 
 <p id="aprovacoesPendentes"></p>
-## 15.8 Aprovação das Atualizações da Ficha Técnica
+## 15.7 Aprovação das Atualizações da Ficha Técnica
 Para uma determinada atualização, vai ser permitida a consulta, simultânea, dos dados que constam na base de dados e as novas informações e aprovar ou excluir a atualização ([](#figPainel_comp)).
 Caso o utilizador aprove, a nova informação substitui a anterior.
 Caso o utilizador exclua, os dados presentes na ficha técnica permanecem inalterados.
@@ -259,7 +254,7 @@ Caso o utilizador exclua, os dados presentes na ficha técnica permanecem inalte
 <p class="caption" id="figPainel_comp"> Página de verificação da informação que consta na Ficha Técnica. </p>
  
  <p id="aconvencao"></p>
-## 15.9 Validação das Atualizações da Ficha Técnica
+## 15.8 Validação das Atualizações da Ficha Técnica
 Depois da aprovação, os novos dados passam a ficar incluídos na base de dados, i.e., os campos da ficha técnica que sofreram alterações são atualizados. 
 Assim, no sub-menu Atualizações Por Aprovar, deixa de ser possível consultar as atualizações ao acordo/convenção e estas são transferidas para o ‘’separador’’ ‘’Atualizações Por Validar‘’ ([](#fig14_17)), presente no separador ‘’Acordos/Convenções’’ da entidade em causa ([](#fig14_16)).
 
