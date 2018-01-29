@@ -249,13 +249,18 @@ Uma vez na página de histórico poderá visualizar a data das alterações, o u
 <p id="exportar"></p>
 ## 15.6 Exportar Ficha Técnica
 
-![fig19](img/pages/cap15/19.JPG)
+É possível exportar dois tipos de documentos, em formato *pdf*, nomeadamente:
+- Uma versão resumida na qual consta a identificação da entidade, a constituição do corpo gerente, as áreas convencionadas (sem valências) e a identificação da convenção ([](#fig20)); <br><br>
 
-<p class="caption" id="fig19"> Histórico Convenção </p>
+- Uma versão mais detalhada ([](#fig21)) na qual consta a identificação da entidade, a constituição do corpo gerente, a identificação do estabelecimento, laboratórios, a capacidade de atendimento, os exames (e respetivos códigos) da área convencionada (se tiver mais do que uma é imprimida noutro documento) e informação relativa aos RH.
 
-![fig19](img/pages/cap15/19.JPG)
+![fig20](img/pages/cap15/20.JPG)
 
-<p class="caption" id="fig19"> Histórico Convenção </p>
+<p class="caption" id="fig19"> Exportar ficha técnica referente à entidade </p>
+
+![fig21](img/pages/cap15/21.JPG)
+
+<p class="caption" id="fig19"> Exportar ficha técnica referente ao estabelecimento </p>
 
 <p id="importar"></p>
 ## 15.7 Importar Ficha Técnica
