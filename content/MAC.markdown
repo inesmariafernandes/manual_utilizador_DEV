@@ -194,45 +194,45 @@ O utilizador é conduzido a uma página na qual pode:
 
 #### **I) Consultar e/ou alterar o estado dos exames associados ao estabelecimento**
 
-Para consultar e/ou alterar o estado dos exames associados ao estabelecimento deve carregar no botão destacado em [](#fig15).
+Para consultar e/ou alterar o estado dos exames associados ao estabelecimento deve carregar no botão destacado em [](#fig14_15).
 
-![fig15](img/pages/cap15/15.JPG)
+![fig14_15](img/pages/cap15/14_15.JPG)
 
-<p class="caption" id="fig15"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado dos exames associados ao estabelecimento destacado a amarelo. </p>
+<p class="caption" id="fig14_15"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado dos exames associados ao estabelecimento destacado a amarelo. </p>
 
 #### **II) Editar o estado do estabelecimento**
 
-Para editar o estado do estabelecimento deve carregar no botão destacada em [](#fig16).
+Para editar o estado do estabelecimento deve carregar no botão destacada em [](#fig14_16).
 
-![fig16](img/pages/cap15/16.JPG)
+![fig14_16](img/pages/cap15/14_16.JPG)
 
-<p class="caption" id="fig16"> Botão que o utilizador deve pressionar para editar o estado do estabelecimento destacado a amarelo. </p>
+<p class="caption" id="fig14_16"> Botão que o utilizador deve pressionar para editar o estado do estabelecimento destacado a amarelo. </p>
 
 #### **III) Consultar e/ou alterar o estado das valências**
 
 Para consultar e/ou alterar o estado das valências o utilizador deve carregar no botão destacado na [](#fig17).
 
-![fig17](img/pages/cap15/17.JPG)
+![fig14_17](img/pages/cap15/14_17.JPG)
 
-<p class="caption" id="fig17"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado das valências destacado a amarelo. </p>
+<p class="caption" id="fig14_17"> Botão que o utilizador deve pressionar para consultar e/ou alterar o estado das valências destacado a amarelo. </p>
 
 #### **IV) Editar o estado da área convencionada**
 
-Para editar o estado da área convencionada o utilizador deve carregar no botão destacado na figura [](#fig18).
+Para editar o estado da área convencionada o utilizador deve carregar no botão destacado na figura [](#fig14_18).
 
-![fig18](img/pages/cap15/18.JPG)
+![fig14_18](img/pages/cap15/14_8.JPG)
 
-<p class="caption" id="fig18"> Botão que o utilizador deve pressionar para editar o estado da área convencionada. </p>
+<p class="caption" id="fig14_18"> Botão que o utilizador deve pressionar para editar o estado da área convencionada. </p>
 
 <p id="historicoConvencao"></p>
 ## 15.5 Histórico Convenções
 
 A página de histórico de um acordo/convenção pode ser acedida através da lista de convenções da entidade e clicando no botão **HISTÓRICO** .
-Uma vez na página de histórico poderá visualizar a data das alterações, o utilizador que as realizou e os painéis que afetaram [](#fig19).
+Uma vez na página de histórico poderá visualizar a data das alterações, o utilizador que as realizou e os painéis que afetaram [](#fig14_19).
 
-![fig19](img/pages/cap15/19.JPG)
+![fig14_19](img/pages/cap15/14_19.JPG)
 
-<p class="caption" id="fig19"> Histórico Convenção </p>
+<p class="caption" id="fig14_19"> Histórico Convenção </p>
 
 
 <p id="exportar"></p>
@@ -244,9 +244,9 @@ Uma vez na página de histórico poderá visualizar a data das alterações, o u
 - Uma versão mais detalhada na qual consta a identificação da entidade, a constituição do corpo gerente, a identificação do estabelecimento, laboratórios, a capacidade de atendimento, os exames (e respetivos códigos) da área convencionada (se tiver mais do que uma é imprimida noutro documento) e informação relativa aos RH. Para exportar este documento o utilizador deve carregar no símbolo que representa o documento em *pdf* na [](#figCriarAC).
 
 
-![fig21](img/pages/cap15/21.JPG)
+![fig14_20](img/pages/cap15/14_20.JPG)
 
-<p class="caption" id="fig21"> Exportar ficha técnica referente ao estabelecimento </p>
+<p class="caption" id="fig14_20"> Exportar ficha técnica referente ao estabelecimento </p>
 
 <p id="importar"></p>
 ## 15.7 Importar Ficha Técnica
