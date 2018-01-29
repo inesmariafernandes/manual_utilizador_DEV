@@ -239,7 +239,7 @@ Para editar o estado da área convencionada o utilizador deve carregar no botão
 ## 15.5 Histórico Convenções
 
 A página de histórico de um acordo/convenção pode ser acedida através da lista de convenções da entidade e clicando no botão **HISTÓRICO** .
-Uma vez na página de histórico poderá visualizar a data das alterações, o utilizador que as realizou e os paineis que afetaram [](#fig19).
+Uma vez na página de histórico poderá visualizar a data das alterações, o utilizador que as realizou e os painéis que afetaram [](#fig19).
 
 ![fig19](img/pages/cap15/19.JPG)
 
