@@ -18,7 +18,7 @@ Para aceder às  instalações de um estabelecimento, o utilizador tem três alt
 
 (ii) Na página de consulta de estabelecimentos existentes numa entidade, através do ponto [7. Estabelecimentos] ([](#figEstEntidade));
 
-(iii) Através do sub-menu Instalações [](#figura_menu_ADMIN_entidade), selecionado.
+(iii) Através do menu Instalações [](#figura_menu_ADMIN_entidade), selecionado.
 
 ![fig39](img/pages/cap14/39.JPG)
 
