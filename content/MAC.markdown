@@ -256,11 +256,11 @@ Uma vez na página de histórico poderá visualizar a data das alterações, o u
 
 ![fig20](img/pages/cap15/20.JPG)
 
-<p class="caption" id="fig19"> Exportar ficha técnica referente à entidade </p>
+<p class="caption" id="fig20"> Exportar ficha técnica referente à entidade </p>
 
 ![fig21](img/pages/cap15/21.JPG)
 
-<p class="caption" id="fig19"> Exportar ficha técnica referente ao estabelecimento </p>
+<p class="caption" id="fig21"> Exportar ficha técnica referente ao estabelecimento </p>
 
 <p id="importar"></p>
 ## 15.7 Importar Ficha Técnica
