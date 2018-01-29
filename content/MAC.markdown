@@ -164,11 +164,8 @@ Para que os dados relativos ao recurso humano técnico sejam guardados, o utiliz
 
 ## 15.2 Editar Acordo
 
-Para editar um acordo ou convenção o utilizador deve selecionar o acordo/convenção que pretende editar e clicar no botão **EDITAR** ([](#figEditAC)).
+Para editar um acordo ou convenção o utilizador deve selecionar o acordo/convenção que pretende editar e clicar no botão **EDITAR** ([](#figCriarAC)).
 
-![figEditAC](img/pages/cap15/14_11.JPG)
-
-<p class="caption" id="figEditAC"> Acordo selecionado e botão "Editar" ativo e destacado a amarelo. </p>
 
 O utilizador é encaminhado para uma página onde pode alterar e adicionar informações relativas ao acordo ou convenção, respeitando o preenchimento dos campos obrigatórios identificados nos pontos anteriores.
 
@@ -180,22 +177,14 @@ No final da edição de cada um dos campos do acordo ou convenção o utilizador
 
 ## 15.3 Consultar Acordo
 
-Para consultar um acordo ou convenção o utilizador deve selecionar o acordo/convenção que pretende consultar e clicar no botão **CONSULTAR** ([](#figConsultarAC)).
-
-![figConsultarAC](img/pages/cap15/14_9.JPG)
-
-<p class="caption" id="figConsultarAC"> Acordo selecionado e botão "Consultar" ativo e destacado a amarelo. </p>
+Para consultar um acordo ou convenção o utilizador deve selecionar o acordo/convenção que pretende consultar e clicar no botão **CONSULTAR** ([](#figCriarAC)).
 
 Para visualizar cada um dos campos relativos ao acordo ou convenção - identificação da entidade, áreas convencionadas, estabelecimentos e recursos humanos técnicos - o utilizador deverá clicar no botão **+** relativo a cada uma das áreas.
 
 <p id="alteraEstado"></p>
 ## 15.4 Alterar Estado 
 
-O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO ACORDO/CONVENÇÃO** ([](#figAltAC)). 
-
-![figAltAC](img/pages/cap15/14_10.JPG)
-
-<p class="caption" id="figAltAC"> Acordo selecionado e botão "Alterado Estado Convenção" ativo e destacado a amarelo. </p>
+O utilizador pode alterar o estado do acordo/convenção após selecionar o acordo/convenção que pretende editar, clicar no botão **ALTERAR ESTADO ACORDO/CONVENÇÃO** ([](#figCriarAC)). 
 
 <br> <br>
 
@@ -250,13 +239,10 @@ Uma vez na página de histórico poderá visualizar a data das alterações, o u
 ## 15.6 Exportar Ficha Técnica
 
 É possível exportar dois tipos de documentos, em formato *pdf*, nomeadamente:
-- Uma versão resumida na qual consta a identificação da entidade, a constituição do corpo gerente, as áreas convencionadas (sem valências) e a identificação da convenção ([](#fig20)); <br><br>
+- Uma versão resumida na qual consta a identificação da entidade, a constituição do corpo gerente, as áreas convencionadas (sem valências) e a identificação da convenção. ara exportar este documento o utilizador deve carregar no símbolo que representa o documento em *pdf* na [](#fig20); <br><br>
 
-- Uma versão mais detalhada ([](#fig21)) na qual consta a identificação da entidade, a constituição do corpo gerente, a identificação do estabelecimento, laboratórios, a capacidade de atendimento, os exames (e respetivos códigos) da área convencionada (se tiver mais do que uma é imprimida noutro documento) e informação relativa aos RH.
+- Uma versão mais detalhada na qual consta a identificação da entidade, a constituição do corpo gerente, a identificação do estabelecimento, laboratórios, a capacidade de atendimento, os exames (e respetivos códigos) da área convencionada (se tiver mais do que uma é imprimida noutro documento) e informação relativa aos RH. Para exportar este documento o utilizador deve carregar no símbolo que representa o documento em *pdf* na [](#figCriarAC).
 
-![fig20](img/pages/cap15/20.JPG)
-
-<p class="caption" id="fig20"> Exportar ficha técnica referente à entidade </p>
 
 ![fig21](img/pages/cap15/21.JPG)
 
