@@ -282,5 +282,3 @@ O utilizador é encaminhado para uma página onde pode anexar e carregar as fich
 
 Depois de carregar a ficha técnica, é mostrada uma página de verificação da informação onde o utilizador pode consultar a informação que carregou ([](#figPainel_confir)).
 Caso a informação seja confirmada, esta informação passa a ter de ser sujeita a aprovação.
-
-
