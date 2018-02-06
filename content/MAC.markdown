@@ -220,7 +220,7 @@ Para consultar e/ou alterar o estado das valências o utilizador deve carregar n
 
 Para editar o estado da área convencionada o utilizador deve carregar no botão destacado na figura [](#fig14_18).
 
-![fig14_18](img/pages/cap15/14_8.JPG)
+![fig14_18](img/pages/cap15/14_18.JPG)
 
 <p class="caption" id="fig14_18"> Botão que o utilizador deve pressionar para editar o estado da área convencionada. </p>
 
