@@ -239,7 +239,7 @@ Uma vez na página de histórico poderá visualizar a data das alterações, o u
 ## 15.6 Exportar Ficha Técnica
 
 É possível exportar dois tipos de documentos, em formato *pdf*, nomeadamente:
-- Uma versão resumida na qual consta a identificação da entidade, a constituição do corpo gerente, as áreas convencionadas (sem valências) e a identificação da convenção. ara exportar este documento o utilizador deve carregar no símbolo que representa o documento em *pdf* na [](#fig20); <br><br>
+- Uma versão resumida na qual consta a identificação da entidade, a constituição do corpo gerente, as áreas convencionadas (sem valências) e a identificação da convenção. ara exportar este documento o utilizador deve carregar no símbolo que representa o documento em *pdf* na [](#figRegistaAC); <br><br>
 
 - Uma versão mais detalhada na qual consta a identificação da entidade, a constituição do corpo gerente, a identificação do estabelecimento, laboratórios, a capacidade de atendimento, os exames (e respetivos códigos) da área convencionada (se tiver mais do que uma é imprimida noutro documento) e informação relativa aos RH. Para exportar este documento o utilizador deve carregar no símbolo que representa o documento em *pdf* na [](#figCriarAC).
 
