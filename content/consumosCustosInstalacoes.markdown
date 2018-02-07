@@ -7,7 +7,7 @@ updated_on: 2015-10-06
 translation_priority: 1
 order: 3
 ---
-<p id="instalacao"></p>
+<p id="#ConsumosCustosInstalacoes"></p>
 # 12. Consumos e Custos Instalações
 
 Os dados deste separador ([](#figConsumosCustosInstalacoes)) são preenchidos automaticamente por um SI externo. 
