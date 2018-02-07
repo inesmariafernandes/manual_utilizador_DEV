@@ -12,6 +12,6 @@ order: 3
 
 Os dados deste separador ([](#figConsumosCustosInstalacoes)) são preenchidos automaticamente por um SI externo. 
 
-![figConsumosCustosInstalacoes](img/pages/cap11/11_1_2.jpg)
+![figConsumosCustosInstalacoes](img/pages/cap11/11_1_2.JPG)
 
 <p class="caption" id="figConsumosCustosInstalacoes"> Consumos e Custos Instalações</p>
