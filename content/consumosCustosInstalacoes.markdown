@@ -10,8 +10,14 @@ order: 3
 <p id="#ConsumosCustosInstalacoes"></p>
 # 12. Consumos e Custos Instalações
 
+É possível aceder a este separador quer através do Consulta Entidade ([](#figCCIEnt)) quer através do menu instalações ([](#figCCIInst))
+
+![figCCIInst](img/pages/cap11/11_1_1.JPG)
+
+<p class="caption" id="figConsumosCustosInstalacoes"> Visualização do separador Consumos e Custos Instalações através do menu Entidade </p>
+
+![figCCIInst](img/pages/cap11/11_1_2.JPG)
+
+<p class="caption" id="figConsumosCustosInstalacoes"> Visualização do separador Consumos e Custos Instalações através do menu Instalações </p>
+
 Os dados deste separador ([](#figConsumosCustosInstalacoes)) são preenchidos automaticamente por um SI externo. 
-
-![figConsumosCustosInstalacoes](img/pages/cap11/11_1_2.JPG)
-
-<p class="caption" id="figConsumosCustosInstalacoes"> Consumos e Custos Instalações</p>
