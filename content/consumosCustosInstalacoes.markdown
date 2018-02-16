@@ -12,7 +12,7 @@ order: 3
 
 É possível aceder a este separador quer através do Consulta Entidade ([](#figCCIEnt)) quer através do menu instalações ([](#figCCIInst))
 
-![figCCIEnt](img/pages/cap11/11_1_1.JPG)
+![figCCIEnt](img/pages/cap11/11_1_3.JPG)
 
 <p class="caption" id="figConsumosCustosInstalacoes"> Visualização do separador Consumos e Custos Instalações através do menu Entidade </p>
 
