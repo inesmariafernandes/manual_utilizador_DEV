@@ -14,10 +14,10 @@ order: 3
 
 ![figCCIEnt](img/pages/cap11/11_1_3.JPG)
 
-<p class="caption" id="figConsumosCustosInstalacoes"> Visualização do separador Consumos e Custos Instalações através do menu Entidade </p>
+<p class="caption" id="figCCIEnt"> Visualização do separador Consumos e Custos Instalações através do menu Entidade </p>
 
 ![figCCIInst](img/pages/cap11/11_1_2.JPG)
 
-<p class="caption" id="figConsumosCustosInstalacoes"> Visualização do separador Consumos e Custos Instalações através do menu Instalações </p>
+<p class="caption" id="figCCIInst"> Visualização do separador Consumos e Custos Instalações através do menu Instalações </p>
 
-Os dados deste separador ([](#figConsumosCustosInstalacoes)) são preenchidos automaticamente por um SI externo. 
+Os dados deste separador ([](#figCCIInst)) são preenchidos automaticamente por um SI externo. 
