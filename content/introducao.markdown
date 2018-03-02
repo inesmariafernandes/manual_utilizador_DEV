@@ -215,15 +215,27 @@ No final da edição, para gravar as alterações o utilizador deve clicar no bo
 
 No SGES podem ainda existir utilizadores com outros perfis. No subcapítulo [A2 Perfis e respetivas permissões ](#listaperfis) é possível consultar a lista de perfis, e respetivas permissões, disponíveis no SGES.
 
+<br>
+
 **4.3.2.** O utilizador deve clicar em **Editar**, para que seja possível editar os dados de um determinado utilizador.
+
+<br>
 
 **4.3.3.** O utilizador deve clicar em **Consultar**, para que seja possível consultar os dados de um determinado utilizador.
 
+<br>
+
 **4.3.4.** O utilizador deve clicar em **Bloquear**/**Desbloquear**, caso deseje  um determinado utilizador.
+
+<br>
 
 **4.3.5.** O utilizador deve clicar em **Apagar**, caso deseje eliminar um determinado utilizador
 
+<br>
+
 **4.3.6.** O utilizador deve clicar em **Reiniciar Password** caso deseje voltar a enviar as credenciais de acesso à aplicação a um determinado utilizador. Esta funcionalidade pode ser útil caso, por exemplo, se tenha inserido, inicialmente, o endereço eletrónico errado e, consequentemente, as credenciais tenham sido enviadas para o e-mail errado.
+
+<br>
 
 <p id="natureza-juridica"></p>
 ## 4.4. Natureza jurídica e os seus campos
