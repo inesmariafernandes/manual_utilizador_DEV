@@ -382,13 +382,13 @@ Pode inserir informação acerca das áreas e estacionamento, tendo de carregar 
 ||                     |  N.º Lugares de estacionamento à superfície |
 ||                     |  N.º Lugares interiores à cerca (Campo automático)**** |
 
-(*) *Área impermeabilizada= Área implantação de todos os edifícios +  Área de Estacionamento Construído + Área de Arruamentos e Estacionamentos*
+\* *Área impermeabilizada= Área implantação de todos os edifícios +  Área de Estacionamento Construído + Área de Arruamentos e Estacionamentos*
 
-(**) *Área de espaços exteriores=  Área total do terreno – Área total de implantação do(s) edifício(s)*
+\*\* *Área de espaços exteriores=  Área total do terreno – Área total de implantação do(s) edifício(s)*
 
-(***) *Área espaços verdes= Área total de Espaços Exteriores – Área total de Arruamentos e Estacionamentos (vias)* 
+\*\*\* *Área espaços verdes= Área total de Espaços Exteriores – Área total de Arruamentos e Estacionamentos (vias)* 
 
-(****) *N.º Lugares interiores à cerca= N.º Lugares de estacionamento à superfície + N.º Lugares de estacionamento em área construída*
+\*\*\*\* *N.º Lugares interiores à cerca= N.º Lugares de estacionamento à superfície + N.º Lugares de estacionamento em área construída*
 
 <br>
 
