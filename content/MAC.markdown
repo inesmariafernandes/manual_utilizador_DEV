@@ -253,8 +253,16 @@ Uma vez na página de histórico poderá visualizar a data das alterações, o u
 
 É possível registar um acordo/convenção através do carregamento de um ficheiro que contém a informação relativa ao mesmo.
 Este ficheiro deve ser preenchido seguindo as regras referidas no documento que contém as instruções de preenchimento do mesmo.
-A importação da ficha técnica pode ser efetuada acedendo, exclusivamente, ao sub-menu Importar Ficha Técnica que consta no menu Ficha Técnica. 
+A importação da ficha técnica pode ser efetuada acedendo, exclusivamente, aos sub-menus Ficha Técnica ([](#figMAC)) e Importar Ficha Técnica ([](#figMenuFichaTecnica)) que constam no menu Acordos e Convenções. 
 O utilizador é encaminhado para uma página onde pode anexar e carregar as fichas técnicas ([](#figFichaTecnica)) .
+
+![figMAC](img/pages/cap15/14_21.JPG)
+
+<p class="caption" id="figMAC"> Sub-menus do menu Acordos e Convenções. </p>
+
+![figMenuFichaTecnica](img/pages/cap15/14_22.JPG)
+
+<p class="caption" id="figMenuFichaTecnica"> Sub-menus do sub-menu Ficha Técnica. </p>
 
 ![figFichaTecnica](img/pages/cap15/14_12.JPG)
 
